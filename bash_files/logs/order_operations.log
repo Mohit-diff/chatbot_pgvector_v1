@@ -1,0 +1,32 @@
+Script started at: 2024-11-11 13:00:01
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/order_operations.py:6: LangChainDeprecationWarning: Importing OpenAIEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import OpenAIEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import OpenAIEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings import OpenAIEmbeddings
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/order_operations.py:7: LangChainDeprecationWarning: Importing PGVector from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import PGVector
+
+with new imports of:
+
+>> from langchain_community.vectorstores import PGVector
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores.pgvector import PGVector
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/order_operations.py:184: SAWarning: Did not recognize type 'vector' of column 'embedding'
+  langchain_pg_embedding = Table('langchain_pg_embedding', metadata, autoload_with=engine)
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/order_operations.py:216: LangChainPendingDeprecationWarning: This class is pending deprecation and may be removed in a future version. You can swap to using the `PGVector` implementation in `langchain_postgres`. Please read the guidelines in the doc-string of this class to follow prior to migrating as there are some differences between the implementations. See <https://github.com/langchain-ai/langchain-postgres> for details about the new implementation.
+  db = PGVector(
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/order_operations.py:216: LangChainPendingDeprecationWarning: Please use JSONB instead of JSON for metadata. This change will allow for more efficient querying that involves filtering based on metadata. Please note that filtering operators have been changed when using JSONB metadata to be prefixed with a $ sign to avoid name collisions with columns. If you're using an existing database, you will need to create a db migration for your metadata column to be JSONB and update your queries to use the new operators. 
+  db = PGVector(
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/order_operations.py:241: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  embeddings = OpenAIEmbeddings()
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/.python3.10/lib/python3.10/site-packages/langchain_community/vectorstores/pgvector.py:487: LangChainPendingDeprecationWarning: Please use JSONB instead of JSON for metadata. This change will allow for more efficient querying that involves filtering based on metadata. Please note that filtering operators have been changed when using JSONB metadata to be prefixed with a $ sign to avoid name collisions with columns. If you're using an existing database, you will need to create a db migration for your metadata column to be JSONB and update your queries to use the new operators. 
+  store = cls(
+Inserted new or updated documents into vector store.
+No duplicates found for order entries.
+Script finished at: 2024-11-11 13:00:18

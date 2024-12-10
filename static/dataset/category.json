@@ -1,0 +1,2082 @@
+{
+    "data": [
+        {
+            "id": 20,
+            "parent_id": 40,
+            "name": "Wood Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 3,
+            "page_title": "Wood Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "wood, natural,",
+            "meta_keywords": [
+                "caskets",
+                "casket",
+                "coffin",
+                "coffins",
+                "cofin",
+                "cofins"
+            ],
+            "meta_description": "Our funeral wood caskets are crafted with natural beauty and warmth, to honor your loved one's memory. Find solace in the enduring quality of Overnight Caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "best_selling",
+            "custom_url": {
+                "url": "/wood-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 33,
+            "parent_id": 20,
+            "name": "Cremation Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 3,
+            "page_title": "Funeral Cremation Caskets For Sale | Overnight Caskets",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Explore a dignified farewell with our  funeral cremation caskets for sale at Overnight Caskets. Choose from our collection and provide a meaningful farewell.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/cremation-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 34,
+            "parent_id": 20,
+            "name": "Solid Wood Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 1,
+            "page_title": "Solid Wood Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Find the perfect solid wood casket at Overnight Caskets. High quality, elegant design, and durable construction. Purchase online today with free shipping.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/solid-wood-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 35,
+            "parent_id": 20,
+            "name": "Veneer Wood Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "Veneer Wood Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Our veneer wood caskets offer both beauty and durability. With convenient online ordering and fast delivery, honoring your loved one has never been easier. ",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/veneer-wood-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 40,
+            "parent_id": 0,
+            "name": "Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 7,
+            "page_title": "Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "all products, coffins, caskets, boxes",
+            "meta_keywords": [
+                "caskets",
+                "casket",
+                "coffin",
+                "coffins",
+                "cofin",
+                "cofins"
+            ],
+            "meta_description": "Shopping for funeral caskets doesn't have to be expensive. Get discounts of up to 85% on the top brands and take advantage of our free shipping options.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 41,
+            "parent_id": 40,
+            "name": "Metal Caskets ",
+            "description": "",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "Funeral Metal Caskets For Sale | Overnight Caskets",
+            "search_keywords": "metal, steel, alloy",
+            "meta_keywords": [
+                "caskets",
+                "casket",
+                "coffin",
+                "coffins"
+            ],
+            "meta_description": "Overnight Caskets offers the best funeral metal caskets at the lowest prices. Fully customizable, our handcrafted coffins are accepted at all funeral homes.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/metal-caskets",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 43,
+            "parent_id": 41,
+            "name": "18-Gauge Metal",
+            "description": "",
+            "views": 0,
+            "sort_order": 1,
+            "page_title": "18 Gauge Metal Caskets For Sale | Overnight Caskets",
+            "search_keywords": "steel, metal",
+            "meta_keywords": [
+                "steel",
+                "metal",
+                "alloy"
+            ],
+            "meta_description": "Our 18-gauge metal caskets are designed to be the perfect fit for your deceased loved one. See the various colors and styles we offer. Free & Fast Shipping.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/18-gauge-metal/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 46,
+            "parent_id": 40,
+            "name": "Oversized Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 5,
+            "page_title": "Oversized Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "larger, big, oversized, grande, extra",
+            "meta_keywords": [
+                "caskets",
+                "casket",
+                "coffin",
+                "coffins",
+                "cofin",
+                "cofins"
+            ],
+            "meta_description": "Find spacious oversize caskets designed for utmost comfort and dignity at Overnight Caskets. Honor your loved one's memory with a fitting final resting place.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/oversized-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 49,
+            "parent_id": 40,
+            "name": "Caskets on Sale",
+            "description": "",
+            "views": 0,
+            "sort_order": 11,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/sale-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 53,
+            "parent_id": 0,
+            "name": "Metal Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 9,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/metal-casket/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 54,
+            "parent_id": 0,
+            "name": "Fine Wood Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 14,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/wood-casket/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 55,
+            "parent_id": 0,
+            "name": "Coffins",
+            "description": "",
+            "views": 0,
+            "sort_order": 5,
+            "page_title": "Funeral Coffins For Sale Online | Overnight Caskets",
+            "search_keywords": "Coffin, Coffins",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens"
+            ],
+            "meta_description": "We provide funeral coffins to fit all of your burial needs, at up to 85% off. Order today to take advantage of our overnight delivery options. Contact us today!",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/coffins/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 56,
+            "parent_id": 55,
+            "name": "Metal Coffins",
+            "description": "",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "Funeral Metal Coffins For Sale | Overnight Caskets",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We offer a wide selection of metal coffins for sale, with varying colors, hardware, panels, imagery, and style options. Our coffins are fully customizable.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/metal-coffins/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 59,
+            "parent_id": 55,
+            "name": "Wooden Coffins",
+            "description": "",
+            "views": 0,
+            "sort_order": 1,
+            "page_title": "Funeral Wooden Coffins For Sale | Overnight Caskets",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Choose from our selection of classic funeral wooden coffins for a heartfelt farewell. Overnight Caskets offers premium wooden coffins to honor your loved ones.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/wooden-coffins/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 60,
+            "parent_id": 71,
+            "name": "New York Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to New York</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Brooklyn, Queens, Manhattan, Bronx, Staten Island, Buffalo, Jamaica, Rochester, Yonkers&nbsp;&nbsp;, as well as all other surrounding areas in New York.</strong></span></p>",
+            "views": 0,
+            "sort_order": 8,
+            "page_title": "New York Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide New York and it's cities Brooklyn, Queens, Manhattan, Bronx, Staten Island, Buffalo, Jamaica, Rochester, Yonkers & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/new-york-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 61,
+            "parent_id": 71,
+            "name": "Connecticut Caskets ",
+            "description": "<p>&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"font-size: x-large; color: #ff0000;\"><strong>&nbsp;Free Shipping to Conneticut&nbsp;</strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: left;\"><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE&nbsp; DELIVERY to Bridgeport, New Haven, Hartford, Stamford, as well as all other surrounding areas in Connecticut.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "Overnight Caskets | A Connecticut Casket Company - Free Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Overnight Caskets offer high quality caskets at a discounted price to Connecticut, including Bridgeport, New Haven, Hartford, Stamford.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/connecticut-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 62,
+            "parent_id": 71,
+            "name": "Delaware Caskets",
+            "description": "<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">FREE DELIVERY TO DELAWARE</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p><span style=\"color: #000000; font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Wilmington, Dover, Newark, Middletown, as well as all other surrounding areas in Delaware.&nbsp;</strong></span></p>",
+            "views": 0,
+            "sort_order": 1,
+            "page_title": "Delaware Casket Company | Discount Prices & Free Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Delaware and it's cities Wilmington, Dover, Newark, Middletown, & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/delaware-caskets/",
+                "is_customized": false
+            },
+            "image_url": "https://cdn11.bigcommerce.com/s-uag06hh/product_images/k/delaware__11941.jpg"
+        },
+        {
+            "id": 63,
+            "parent_id": 71,
+            "name": "Maryland Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Maryland</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #888888;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"color: #ff0000;\"><strong><span style=\"font-style: normal; font-variant: normal; font-size: medium; line-height: normal; font-family: Verdana, Arial, Helvetica, sans-serif; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; white-space: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px; display: inline !important;\">Here at Overnight Caskets, we offer a great variety of metal &amp; wooden caskets at a fraction of the price that funeral homes chare. We offer FREE DELIVERY on the following caskets to Baltimore, Frederick, Rockville, Gaithersberg, Bowie, Hagerstown, Annapolis, and anywhere else in Maryland.&nbsp;All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.</span></strong></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #ff0000;\"><strong><span style=\"font-style: normal; font-variant: normal; font-size: medium; line-height: normal; font-family: Verdana, Arial, Helvetica, sans-serif; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; white-space: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px; display: inline !important;\"><img class=\"__mce_add_custom__\" src=\"http://\" alt=\"\" /></span></strong></span></p>",
+            "views": 0,
+            "sort_order": 5,
+            "page_title": "Overnight Caskets | A Maryland Casket Company - Free Overnight Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Overnight Caskets offer high quality caskets at a discounted price to Maryland, including Baltimore, Frederick, Rockville, Gaithersburg, & many more.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/maryland-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 64,
+            "parent_id": 71,
+            "name": "Massachusetts Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Massachusetts&nbsp;</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"color: #ff0000;\"><strong><span style=\"font-style: normal; font-variant: normal; font-size: medium; line-height: normal; font-family: Verdana, Arial, Helvetica, sans-serif; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; white-space: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px; display: inline !important;\">Here at Overnight Caskets, we offer a great variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. We offer FREE DELIVERY to Boston, Worcester, Springfield, Lowell, Cambirdge, New Bedford, Brockton, Quincy, Lynn, Fall River, and the rest of Massachusetts.All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.</span></strong></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"color: #ff0000;\"><strong><span style=\"font-style: normal; font-variant: normal; font-size: medium; line-height: normal; font-family: Verdana, Arial, Helvetica, sans-serif; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; white-space: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px; display: inline !important;\"><img class=\"__mce_add_custom__\" title=\"massachusetts.jpg\" src=\"%%GLOBAL_CdnStorePath%%/product_images/uploaded_images/massachusetts.jpg\" alt=\"massachusetts.jpg\" /></span></strong></span></p>",
+            "views": 0,
+            "sort_order": 6,
+            "page_title": "Overnight Caskets | A Massachusetts Casket Company - Free Overnight Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Overnight Caskets offer high quality caskets at a discounted price to Massachusetts, including Boston, Worcester, Springfield, Lowell.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/massachusetts-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 65,
+            "parent_id": 71,
+            "name": "New Jersey Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to New Jersey</span></strong></span></p>\r\n<p style=\"text-align: center;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a great variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. &nbsp;We offer FREE&nbsp; DELIVERY to Newark, Camden, Patterson, Jersey City, Elizabeth, Edison, Woodbridge Township, Lakewood Township, Toms River, Hamilton, as well as all surrounding cities of New Jersey.&nbsp;All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.</strong></span></p>\r\n<p><span><strong><span>&nbsp;</span></strong></span></p>",
+            "views": 0,
+            "sort_order": 7,
+            "page_title": "Overnight Caskets | A New Jersey Casket Company - Free Overnight Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Overnight Caskets offer high quality caskets at a discounted price to New Jersey, including,  Newark, Jersey City, Paterson, Elizabeth & any other surrounding cities. ",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/new-jersey-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 66,
+            "parent_id": 71,
+            "name": "Pennsylvania Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"font-size: x-large; color: #ff0000;\">Free Shipping to Pennsylvania</span></strong></p>\r\n<p><strong><span style=\"font-size: x-large; color: #ff0000;\">&nbsp;</span></strong></p>\r\n<p><span style=\"font-size: large;\"><strong>Overnight&nbsp;Caskets offers a great variety of metal &amp; wooden caskets in Pennsylvania. &nbsp;The following caskets have FREE DELIVERY to Philadelphia, Allentown, Pittsbugh, Erie, Reading, Scranton, Bethlehem, as well as all other surrounding cities of Pennsylvania.&nbsp;All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.</strong></span></p>\r\n<p><strong><span>&nbsp;</span></strong></p>",
+            "views": 0,
+            "sort_order": 9,
+            "page_title": "Overnight Caskets | A Pennsylvania Casket Company",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Overnight Caskets offer high quality caskets at a discounted price to Pennsylvania, including, Philadelphia, Pittsburgh, Allentown, & Erie.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/pennsylvania-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 67,
+            "parent_id": 71,
+            "name": "Virginia Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">Free Shipping to Virginia</span></strong></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000; font-size: x-large;\">&nbsp;</span></p>\r\n<p><span style=\"font-size: large;\"><strong>Overnight&nbsp;Caskets offers a wide array of both metal &amp; wooden caskets Virginia. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.&nbsp;The following caskets are delivered the NEXT DAY to Virginia Beach, Richmond, Chesapeake, Norfolk, Newport News, Roanoke, Hampton, and anywhere else in Virginia.</strong></span></p>\r\n<p><span><strong><span>&nbsp;</span></strong></span></p>",
+            "views": 0,
+            "sort_order": 10,
+            "page_title": "Overnight Caskets | A Virginia Casket Company - Free Overnight Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Overnight Caskets offer high quality caskets at a discounted price to Virginia, including, Virginia Beach, Norfolk, Chesapeake, & Richmond. ",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/virginia-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 68,
+            "parent_id": 71,
+            "name": "Rhode Island Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"font-size: x-large; color: #ff0000;\">Free Shipping to Rhode Island</span></p>\r\n<p style=\"text-align: left;\"><span style=\"font-size: x-large; color: #ff0000;\"><strong><span style=\"font-style: normal; font-variant: normal; line-height: normal; font-family: Verdana, Arial, Helvetica, sans-serif; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; white-space: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px; display: inline !important;\">Overnight&nbsp;Caskets is the leading provider of both metal &amp; wooden caskets in Rhode Island. &nbsp;All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.&nbsp; The following caskets have &nbsp;FREE SHIPPING to Providence, Cranston, Pawtucket, Warwick, East Providence, Coventry, Woonsocket, and anywhere else in Rhose Island.</span></strong></span></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><strong><span style=\"font-style: normal; font-variant: normal; font-size: medium; line-height: normal; font-family: Verdana, Arial, Helvetica, sans-serif; color: #ff0000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; float: none; white-space: normal; background-color: #ffffff; -webkit-text-stroke-width: 0px; display: inline !important;\"><img class=\"__mce_add_custom__\" src=\"http://\" alt=\"\" /></span></strong></p>",
+            "views": 0,
+            "sort_order": 11,
+            "page_title": "Rhode Island Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Rhode Island and it's cities Providence, Warwick, Cranston, Pawtucket, & many more with discount prices & free next day delivery on all caskets. ",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/rhode-island-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 69,
+            "parent_id": 71,
+            "name": "Washington DC Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">Free Shipping to Washington&nbsp;</span></strong></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000; font-size: x-large;\">&nbsp;</span></p>\r\n<p><span style=\"font-size: large;\"><strong>Overnight&nbsp;Caskets is the leading provider of metal &amp; wooden caskets in the DC area. &nbsp;All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.We offer FREE&nbsp; DELIVERY to all surrounding areas of Washington D.C.</strong></span></p>\r\n<p><strong><span><span>&nbsp;</span></span></strong></p>",
+            "views": 0,
+            "sort_order": 12,
+            "page_title": "Overnight Caskets | A Washington DC Casket Company - Free Overnight Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "Overnight Caskets offer high quality caskets at a discounted price to Washington DC, including, the District of Columbia.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/washington-dc-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 70,
+            "parent_id": 78,
+            "name": "East Coast Caskets",
+            "description": "<p><span style=\"font-size: medium; color: #ff0000;\">&nbsp;</span></p>",
+            "views": 0,
+            "sort_order": 1,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/east-coast-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 71,
+            "parent_id": 0,
+            "name": "Regional Casket Companies",
+            "description": "",
+            "views": 0,
+            "sort_order": 10,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/regional-casket-companies/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 72,
+            "parent_id": 71,
+            "name": "Ohio Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">Free Shipping To Ohio&nbsp;</span></strong></p>\r\n<p><strong><span style=\"font-size: medium;\">Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE&nbsp; DELIVERY to Canton, Columbus, Cleveland, Cincinnati, Akron, Toledo, Dayton, Youngstown, as well as all other surrounding areas in Ohio.</span></strong></p>",
+            "views": 0,
+            "sort_order": 4,
+            "page_title": "Ohio Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Ohio and it's cities Canton, Columbus, Cleveland, Cincinnati, Akron, Toledo, Dayton, Youngstown, & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/ohio-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 73,
+            "parent_id": 71,
+            "name": "Michigan Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">Free Shipping to Michigan</span></strong></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000; font-size: x-large;\">&nbsp;</span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE&nbsp; DELIVERY to &nbsp;Detroit, Grand Rapids, Warren, Lansing, Sterling Heights, Ann Arbor, Farmington Hills, Dearborn, Flint, as well as all other surrounding areas in Michigan.</strong></span></p>",
+            "views": 0,
+            "sort_order": 3,
+            "page_title": "Michigan Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Michigan and it's cities Detroit, Grand Rapids, Warren, Lansing, Sterling Heights, Ann Arbor, Farmington Hills, Dearborn, Flint, & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/michigan-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 74,
+            "parent_id": 78,
+            "name": "West Coast Caskets",
+            "description": "<p><span style=\"font-size: medium;\">Overnight Caskets is the leading provider of metal &amp; wood caskets for the entire west coast.&nbsp;All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction. The following caskets have&nbsp;FREE DELIVERY in California, Nevada, Arizona, Utah, Colorado, New Mexico, Oregon, Washington, Texas, &amp; Idaho.&nbsp;</span></p>",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/west-coast-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 77,
+            "parent_id": 82,
+            "name": "Masculine Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "Masculine Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "men, man, boy, boys, masculine, powerful",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens",
+                "men",
+                "man",
+                "masculine"
+            ],
+            "meta_description": "Masculine funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/masculine-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 78,
+            "parent_id": 0,
+            "name": "Location",
+            "description": "",
+            "views": 0,
+            "sort_order": 12,
+            "page_title": "Overnight Caskets Locations",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/location/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 79,
+            "parent_id": 78,
+            "name": "Mid-West Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 4,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/mid-west-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 80,
+            "parent_id": 82,
+            "name": "Feminine Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 1,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/feminine-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 81,
+            "parent_id": 82,
+            "name": "Unisex Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/unisex-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 82,
+            "parent_id": 40,
+            "name": "Caskets By Gender",
+            "description": "",
+            "views": 0,
+            "sort_order": 8,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/caskets-by-gender/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 83,
+            "parent_id": 78,
+            "name": "SE1",
+            "description": "<p><span style=\"font-size: medium;\">Overnight Caskets is the leading provider of metal &amp; wood caskets. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction. The following caskets have&nbsp;FREE DELIVERY in Georgia, Florida, South Carolina, North Carolina, Alabama, Mississippi, Tennessee, Kentucky, Louisiana, Illinois, Michigan, Indiana, Missouri, Kansas, Minnesota, Wisconsin, Iowa, Oklahoma, and Texas.&nbsp;</span></p>",
+            "views": 0,
+            "sort_order": 3,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/se1/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 84,
+            "parent_id": 71,
+            "name": "California Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Next Day Shipping to California</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE OVERNIGHT DELIVERY to Los Angeles, San Diego, San Francisco, Fresno, Sacramento, as well as all other surrounding areas in Ohio.</strong></span></p>",
+            "views": 0,
+            "sort_order": 14,
+            "page_title": "Overnight Caskets - California Casket Company",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide California and it's cities Los Angeles, San Diego, San Francisco, Fresno, Sacramento and many more with discount prices & free next day delivery on funeral caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/california-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 85,
+            "parent_id": 71,
+            "name": "Alabama Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"font-size: x-large; color: #ff0000;\"><strong>FREE DELIVERY everywhere In Alabama.</strong></span></p>\r\n<p style=\"text-align: center;\"><strong style=\"font-size: large;\">Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY everywhere In Alabama.</strong></p>",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "Alabama Casket Company | Discount Prices & Free Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We Provide Alabama with Caskets at wholesale prices with Free Next Day Delivery.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/alabama-caskets/",
+                "is_customized": false
+            },
+            "image_url": "https://cdn11.bigcommerce.com/s-uag06hh/product_images/h/alabama__70914.jpg"
+        },
+        {
+            "id": 86,
+            "parent_id": 71,
+            "name": "Arizona Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">Free Shipping to Arizona</span></strong></p>\r\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">&nbsp;</span></strong></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE&nbsp; DELIVERY to Phoenix, Tucson, Mesa, Chandler, Glendale, as well as all other surrounding areas in Arizona.</strong></span></p>\r\n<div id=\"HomeFeaturedArea\" class=\"Block Panel\">\r\n<div id=\"eightteenGauge\">\r\n<h3>&nbsp;</h3>\r\n</div>\r\n</div>",
+            "views": 0,
+            "sort_order": 13,
+            "page_title": "Arizona Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Arizona and its cities Phoenix, Tucson, Mesa, Chandler, Glendale & many more with discount prices & free next day delivery on funeral caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/arizona-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 87,
+            "parent_id": 71,
+            "name": "Colorado Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping To Colorado&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Denver, Colorado Springs, Aurora, Fort Collins, as well as all other surrounding areas in Ohio.</strong></span></p>",
+            "views": 0,
+            "sort_order": 15,
+            "page_title": "Overnight Caskets - Colorado Casket Company",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Colorado and it's cities Denver, Colorado Springs, Aurora, Fort Collins and many more cities with discount prices & free next day delivery on funeral caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/colorado-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 89,
+            "parent_id": 71,
+            "name": "Florida Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">Free Shipping to Florida&nbsp;</span></strong></p>\r\n<p style=\"text-align: center;\"><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE&nbsp; DELIVERY to Jacksonville, Miami, Tampa , St. Petersburg, Orlando&nbsp;as well as all other surrounding areas in Florida.</strong></span></p>",
+            "views": 0,
+            "sort_order": 16,
+            "page_title": "Florida Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Florida and it's cities Jacksonville, Miami, Tampa , St. Petersburg, Orlando & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/florida-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 90,
+            "parent_id": 71,
+            "name": "Georgia Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"font-size: x-large; color: #ff0000;\">Free Shipping to Georgia&nbsp;&nbsp;</span></strong></p>\r\n<p style=\"text-align: left;\"><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE OVERNIGHT DELIVERY to Atlanta, Columbus, Savanna, Athens, Sandy Springs, Macon, Roswell, Albany, Johns Creek, Warner Robins&nbsp;as well as all other surrounding areas in Georgia.</strong></span></p>",
+            "views": 0,
+            "sort_order": 17,
+            "page_title": "Overnight Caskets - Georgia Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Georgia and its cities Atlanta, Columbus, Savanna, Athens, Sandy Springs, Macon, Roswell, Albany, Johns Creek, Warner Robins & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/georgia-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 91,
+            "parent_id": 71,
+            "name": "Idaho Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Idaho</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: left;\">&nbsp;</p>\r\n<p style=\"text-align: left;\"><span style=\"font-size: medium;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities and surrounding areas in Idaho.</strong></span></p>\r\n<p><span style=\"font-size: medium;\">&nbsp;</span></p>",
+            "views": 0,
+            "sort_order": 20,
+            "page_title": "Idaho Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Idaho and it's cities with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/idaho-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 92,
+            "parent_id": 71,
+            "name": "Illinois Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: xx-large;\">Free Shipping to Illinois</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Chicago, Aurora, Rockford, Joliet, Naperville, Springfield, as well as all other surrounding areas in Illinois.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 18,
+            "page_title": "Illinois Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Illinois and it's cities Chicago, Aurora, Rockford, Joliet, Naperville, Springfield & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/illinois-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 93,
+            "parent_id": 71,
+            "name": "Indiana Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Indiana</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #888888;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Indianapolis, Fort Wayne, Evansville, South Bend, Hammond, as well as all other surrounding areas in Indiana.</strong></span></p>",
+            "views": 0,
+            "sort_order": 19,
+            "page_title": "Indiana Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Indiana and it's cities Indianapolis, Fort Wayne, Evansville, South Bend, Hammond & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/indiana-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 94,
+            "parent_id": 71,
+            "name": "Iowa Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Iowa</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: left;\"><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in Iowa.&nbsp;</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 22,
+            "page_title": "Iowa Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Iowa and it's cities with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/iowa-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 95,
+            "parent_id": 71,
+            "name": "Kansas Caskets",
+            "description": "<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">Free Shipping to Kansas</span></strong></p>\r\n<p style=\"text-align: center;\"><strong><span style=\"color: #ff0000; font-size: x-large;\">&nbsp;</span></strong></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE&nbsp; DELIVERY to Wichita, Overland Park, Kansas City, Topeka, Olathel, as well as all other surrounding areas in Kansas.</strong></span></p>",
+            "views": 0,
+            "sort_order": 21,
+            "page_title": "Kansas Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Kansas and it's cities Wichita, Overland Park, Kansas City, Topeka, Olathel & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/kansas-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 96,
+            "parent_id": 71,
+            "name": "Kentucky Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"font-size: x-large; color: #ff0000;\"><strong>Free Shipping to Kentucky</strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: left;\"><span style=\"font-size: medium;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Lexington, Ironville, Meads, Louisville, Lexington&nbsp;, as well as all other surrounding areas in Kentucky.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 24,
+            "page_title": "Kentucky Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Kentucky and it's cities Lexington, Ironville, Meads, Louisville, Lexington  & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/kentucky-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 97,
+            "parent_id": 71,
+            "name": "Louisiana Caskets ",
+            "description": "<p><img class=\"__mce_add_custom__\" title=\"louisiana.jpg\" src=\"%%GLOBAL_ShopPath%%/product_images/uploaded_images/louisiana.jpg\" alt=\"louisiana.jpg\" width=\"980\" height=\"504\" /></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE OVERNIGHT DELIVERY to &nbsp;New Orleans, Baton Rouge, Shreveport, Metairie Terrace, as well as all other surrounding areas in Ohio.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 23,
+            "page_title": "Louisiana Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Louisiana and it's cities New Orleans, Baton Rouge, Shreveport, Metairie Terrace & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/louisiana-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 98,
+            "parent_id": 71,
+            "name": "Maine Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Delivery to Maine</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #888888;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in Maine.&nbsp;</strong></span></p>",
+            "views": 0,
+            "sort_order": 25,
+            "page_title": "Maine Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Maine and it's cities  with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/maine-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 100,
+            "parent_id": 71,
+            "name": "Minnesota Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Minnesota</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to &nbsp;Minneapolis, Saint Paul, Rochester, Duluth, Bloomington, as well as all other surrounding areas in Minnesota.</strong></span></p>",
+            "views": 0,
+            "sort_order": 26,
+            "page_title": "Minnesota Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Minnesota and it's cities Minneapolis, Saint Paul, Rochester, Duluth, Bloomington & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/minnesota-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 101,
+            "parent_id": 71,
+            "name": "Mississippi Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Mississippi</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in Mississippi.</strong></span></p>",
+            "views": 0,
+            "sort_order": 28,
+            "page_title": "Mississippi Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Mississippi and it's cities with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/mississippi-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 102,
+            "parent_id": 71,
+            "name": "Missouri Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Missouri&nbsp;</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Kansas City, St Louis, Springfield, Independence, Columbia, Lee's Summit, as well as all other surrounding areas in Missouri.</strong></span></p>",
+            "views": 0,
+            "sort_order": 27,
+            "page_title": "Missouri Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Missouri and it's cities Kansas City, St Louis, Springfield, Independence, Columbia, Lee's Summit, & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/missouri-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 103,
+            "parent_id": 71,
+            "name": "Montana Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000; font-size: x-large;\"><strong>Free Shipping to Montana</strong></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in Montana.</strong></span></p>",
+            "views": 0,
+            "sort_order": 30,
+            "page_title": "Montana Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Montana and it's cities with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/montana-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 104,
+            "parent_id": 71,
+            "name": "Nebraska Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Nebraska</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in Nebraska.&nbsp;</strong></span></p>",
+            "views": 0,
+            "sort_order": 29,
+            "page_title": "Nebraska Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Nebraska and it's cities with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/nebraska-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 105,
+            "parent_id": 71,
+            "name": "Nevada Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"font-size: x-large; color: #ff0000;\"><strong>Free Shipping to Nevada</strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p><span style=\"font-size: medium;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Las Vegas, Henderson, Reno, Paradise, Sunrise Manor, Spring Valley, Enterprise&nbsp;, as well as all other surrounding areas in Nevada.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 31,
+            "page_title": "Nevada Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Nevada and it's cities Las Vegas, Henderson, Reno, Paradise, Sunrise Manor, Spring Valley, Enterprise & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/nevada-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 106,
+            "parent_id": 71,
+            "name": "New Hampshire Caskets",
+            "description": "<p style=\"text-align: left;\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to New Hampshire</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in New Hampshire.&nbsp;</strong></span></p>",
+            "views": 0,
+            "sort_order": 34,
+            "page_title": "New Hampshire Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide New Hampshire and it's cities Manchester, Mashua, Concord, Dover & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/new-hampshire-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 107,
+            "parent_id": 71,
+            "name": "New Mexico Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: large;\">Free Shipping to New Mexico</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: large;\">Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Albuquerque , Las Cruces, Enchanted Hills, as well as all other surrounding areas in New &nbsp;Mexico.</span></strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 32,
+            "page_title": "New Mexico Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide New Mexico and it's cities Albuquerque , Las Cruces, Enchanted Hills & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/new-mexico-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 108,
+            "parent_id": 71,
+            "name": "North Carolina Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to North Carolina</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: left;\"><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Charlotte, Raleigh, Greesboro, Winston-Salem, Durham, Fayetville, as well as all other surrounding areas in North Carolina.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 33,
+            "page_title": "North Carolina Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide North Carolina and it's cities Charlotte, Raleigh, Greesboro, Winston-Salem, Durham, Fayetville & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/north-carolina-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 109,
+            "parent_id": 71,
+            "name": "North Dakota Caskets",
+            "description": "<p><img class=\"__mce_add_custom__\" title=\"north-dakota.jpg\" src=\"%%GLOBAL_ShopPath%%/product_images/uploaded_images/north-dakota.jpg\" alt=\"north-dakota.jpg\" width=\"980\" height=\"504\" /></p>\r\n<p>&nbsp;</p>\r\n<p><strong><span>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE OVERNIGHT DELIVERY to all cities in North Dakota.&nbsp;</span></strong></p>",
+            "views": 0,
+            "sort_order": 35,
+            "page_title": "We Provide North Dakota with caskets at wholesale prices with Free Next Day Delivery.",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide North Dakotaand it's cities  with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/north-dakota-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 111,
+            "parent_id": 71,
+            "name": "Oklahoma Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Oklahoma</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in Oklahoma.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 37,
+            "page_title": "Oklahoma Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Oklahoma and it's cities  with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/oklahoma-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 112,
+            "parent_id": 71,
+            "name": "Oregon Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Delivery to Oregon&nbsp;</span></strong></span></p>",
+            "views": 0,
+            "sort_order": 36,
+            "page_title": "Oregon Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Oregon and it's cities Portland, Eugene, Salem, Gresham, Hillsboro, Beaverton, Bend  & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/oregon-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 115,
+            "parent_id": 71,
+            "name": "South Carolina Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to South Carolina</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Columbia, Charleston, as well as all other surrounding areas in South Carolina.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 38,
+            "page_title": "South Carolina Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide South Carolina and it's cities Columbia, Charleston & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/south-carolina-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 116,
+            "parent_id": 71,
+            "name": "South Dakota Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to South Dakota</span></strong></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in South Dakota.</strong></span></p>",
+            "views": 0,
+            "sort_order": 39,
+            "page_title": "We Provide South Dakota with caskets at wholesale prices with Free Next Day Delivery.",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide South Dakota and it's cities with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/south-dakota-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 117,
+            "parent_id": 71,
+            "name": "Tennessee Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Tennessee</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE&nbsp; DELIVERY to &nbsp;Memphis, Nashville, Knoxville, Chattanooga, Clarksville, Mrfreesboro, as well as all other surrounding areas in Tennessee.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 40,
+            "page_title": "Tennessee Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Tennessee and it's cities Memphis, Nashville, Knoxville, Chattanooga, Clarksville, Mrfreesboro & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/tennessee-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 118,
+            "parent_id": 71,
+            "name": "Texas Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Texas</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Austin, San Antonio, Fort Worth, El Paso, Arlington, Corpus Christi, Plano , Laredo. Dallas, Houston&nbsp;, as well as all other surrounding areas in Texas.</strong></span></p>",
+            "views": 0,
+            "sort_order": 43,
+            "page_title": "Texas Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Texas and it's cities Austin, San Antonio, Fort Worth, El Paso, Arlington, Corpus Christi, Plano , Laredo. Dallas, Houston & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/texas-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 119,
+            "parent_id": 71,
+            "name": "Utah Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Utah</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to &nbsp;Salt Lake City, &nbsp;West Valley City, Provo, West Jordan, Orem, as well as all other surrounding areas in Utah.</strong></span></p>",
+            "views": 0,
+            "sort_order": 42,
+            "page_title": "Utah Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Utah and it's cities Salt Lake City,  West Valley City, Provo, West Jordan, Orem & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/utah-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 120,
+            "parent_id": 71,
+            "name": "Vermont Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000; font-size: x-large;\"><strong>Free Shipping to Vermont</strong></span></p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-size: medium;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE&nbsp; DELIVERY to all cities in Vermont.&nbsp;</strong></span></p>",
+            "views": 0,
+            "sort_order": 41,
+            "page_title": "Vermont Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Vermont and it's cities  with discount prices & free next day delivery on all caskets",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/vermont-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 122,
+            "parent_id": 71,
+            "name": "Washington Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Washington<img class=\"__mce_add_custom__\" src=\"http://\" alt=\"\" /></span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to Seattle, Spokane, Tacoma, Vancouver, Bellevue, as well as all other surrounding areas in Washington.</strong></span></p>",
+            "views": 0,
+            "sort_order": 44,
+            "page_title": "Washington Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Washington  and it's cities Seattle, Spokane, Tacoma, Vancouver, Bellevue & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/washington-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 123,
+            "parent_id": 71,
+            "name": "West Virginia Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: large;\">Free Shipping to West Virginia</span></strong></span></p>\r\n<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: large;\">&nbsp;</span></strong></span></p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in West Virginia.</strong></span></p>",
+            "views": 0,
+            "sort_order": 45,
+            "page_title": "West Virginia Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide West Virginia and it's cities & many more with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/west-virginia-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 124,
+            "parent_id": 71,
+            "name": "Wisconsin Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Wisconsin</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p style=\"text-align: center;\"><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in Wisconsin.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 46,
+            "page_title": "Wisconsin Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Wisconsin and it's cities with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/wisconsin-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 125,
+            "parent_id": 71,
+            "name": "Wyoming Caskets",
+            "description": "<p style=\"text-align: center;\"><span style=\"color: #ff0000;\"><strong><span style=\"font-size: x-large;\">Free Shipping to Wyoming</span></strong></span></p>\r\n<p style=\"text-align: center;\">&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><span style=\"font-size: large;\"><strong>Here at Overnight Caskets, we offer a variety of metal &amp; wooden caskets at a fraction of the price that funeral homes charge. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction.The following caskets have FREE DELIVERY to all cities in Wyoming.</strong></span></p>\r\n<p>&nbsp;</p>",
+            "views": 0,
+            "sort_order": 47,
+            "page_title": "Wyoming Casket Company | Discount Prices & Free Next Day Delivery",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "We provide Wyoming and it's cities with discount prices & free next day delivery on all caskets.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/wyoming-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 142,
+            "parent_id": 41,
+            "name": "Stainless Steel Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 3,
+            "page_title": "Stainless Steel Caskets For Sale | Overnight Caskets",
+            "search_keywords": "stainless, steel, metal finish",
+            "meta_keywords": [
+                "steel",
+                "metal",
+                "alloy",
+                "stainless"
+            ],
+            "meta_description": "Our premium selection of stainless steel caskets are crafted with durability and elegance in mind. Overnight Caskets offer timeless quality and lasting tribute.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/stainless-steel-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 144,
+            "parent_id": 78,
+            "name": "South East Caskets",
+            "description": "<div id=\"CategoryHeading\">\r\n<div class=\"CategoryDescription\">\r\n<p><span style=\"font-size: medium;\">Overnight Caskets is the leading provider of metal &amp; wood caskets. All of our caskets are produced with a 10 point quality control inspection to ensure top quality and 100% customer satisfaction. The following caskets have&nbsp;FREE DELIVERY in Georgia, Florida, South Carolina, North Carolina, Alabama, Mississippi, Tennessee, Kentucky, Louisiana, Illinois, Michigan, Indiana, Missouri, Kansas, Minnesota, Wisconsin, Iowa, Oklahoma, and Texas.&nbsp;</span></p>\r\n<p><span style=\"font-size: medium;\">&nbsp;</span></p>\r\n</div>\r\n</div>\r\n<div id=\"460078549\" class=\"Block BlockContent banner_category_page_top\"><span style=\"font-size: medium;\">&nbsp;</span></div>",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/south-east-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 145,
+            "parent_id": 0,
+            "name": "Pre-Planning",
+            "description": "<p><span style=\"text-decoration: underline;\"><strong><span style=\"font-size: medium; color: #ff0000;\"><a href=\"https://preneed.overnightcaskets.com\" target=\"_blank\"><span style=\"color: #ff0000; text-decoration: underline;\">Are you currently Planning Ahead to Pre-Purchase a casket for you or your loved one? Please CLICK HERE to view our Pre-Planning options.</span></a></span></strong></span></p>\r\n<p><span style=\"font-size: medium; color: #000000;\"><strong>Pre-Planning Information:</strong></span></p>\r\n<p><span style=\"font-size: medium; color: #000000;\">By pre-purchasing a casket, you lock in a guaranteed price today and protect you and your family from inflation. Contrary to a lot of funeral home pre-planning packages, there are no extra fees that will be added once the casket is needed. Rest assured knowing that your funds will be placed into a trust account which cannot be touched until the casket is delivered.</span></p>\r\n<p><span style=\"font-size: medium;\">Dealing with the passing of a loved one can create quite a number of unforeseen challenges. Not only is there emotional pain and grief to deal with, but planning a funeral also necessitates a significant outlay of time, energy and money. Wrestling with these emotions while also needing to make sound, coherent choices for the family can often lead to frustration and dissent.&nbsp; Managing funeral costs can become quite the arduous task if not properly prepared.&nbsp; The average cost of a standard funeral ranges anywhere between $5500 and $7500.&nbsp; You should ask yourself if all these costs are indeed warranted.&nbsp; Oftentimes, due to the mental wear and tear from the overwhelming grief, as well as the need you feel to properly remember your deceased loved one, it is quite difficult to constrain your funeral expenses.&nbsp; Standard shopping tactics such as price negotiation and price comparison can be overlooked in such chaotic times.&nbsp; This leads to the majority of people paying much more than they reasonably should for funeral proceedings.</span></p>\r\n<p><span style=\"font-size: medium;\">Overnight Casket&rsquo;s goal is to not only deliver quality, dignified products suitable for your loved ones, but also to do so in a manner that successfully helps you save on your funeral costs.&nbsp;<span><br /></span></span></p>\r\n<p><span style=\"font-size: medium;\"><strong>Pre-Plan in Advance</strong></span></p>\r\n<p><span style=\"font-size: medium;\">While it at times cannot be pleasant, thinking about funeral plans in advance gives you an extremely large advantage in regards to funeral arrangements in a variety of ways:</span></p>\r\n<ol>\r\n<li><span style=\"font-size: medium;\"><strong>Expand Your Options&nbsp;</strong>&nbsp;&ndash; Planning in advance gives you the advantage with talking to multiple funeral homes, mortuaries, funeral agencies to get the best possible deal. &nbsp;Pre-planning allows you to comparison shop without pressure or time constraints. When you have time to make decisions, they are more likely to be informed.</span></li>\r\n<li><span style=\"font-size: medium;\"><strong>No Time Constraint</strong>&nbsp;&ndash; Planning in advance takes away any time constraints from your decision.&nbsp; Taking your time in any decision allows you to become more informed about the process.</span></li>\r\n<li><span style=\"font-size: medium;\"><strong style=\"font-size: medium;\">Remove </strong><span style=\"font-size: medium;\"><strong>Emotional</strong></span><strong style=\"font-size: medium;\">&nbsp;Distraction</strong><span style=\"font-size: medium;\">&nbsp;&ndash; Planning in advance helps you make a sound decision, without the distraction of grief being involved.&nbsp; The outburst of emotion can tend to cloud judgment.</span></span></li>\r\n<li><span style=\"font-size: medium;\"><strong>Scout Location &ndash;&nbsp;</strong>Selecting the cemetery plot for your loved is also best planned in advance. It ensures the family is in agreement on a resting site.&nbsp; It also gives the person a chance for some input in regards to his/her final resting place.</span></li>\r\n</ol>\r\n<p><span style=\"font-size: medium;\"><em>Also please note, your wishes about your funeral may be formalized in many states by entering into and funding a preneed funeral contract.&nbsp; In some states, simply making your family members, friends, attorney or a trusted partner aware of your wishes, in writing, will suffice.&nbsp; Please check your state law to determine how conveying your wishes will be effective.</em></span></p>\r\n<p><span style=\"font-size: medium;\"><strong>Funeral Home Tips</strong></span></p>\r\n<p><span style=\"font-size: medium;\">Consumers shopping for funeral necessities are protected by the United States Federal Trade Commission's '<a href=\"https://www.ftc.gov/bcp/rulemaking/funeral/index.shtm\">Funeral Rule</a>'. &nbsp;These procedures ensure fair trade practices and protection for consumers.&nbsp; Please, for your protection, take a moment and review the FTC&rsquo;s Funeral Rule prior to your purchasing of any funeral services and products.</span></p>\r\n<p><span style=\"font-size: medium;\">Here are some additional tips that can help in your dealings with a funeral home:</span></p>\r\n<ol>\r\n<li><span style=\"font-size: medium;\">Always negotiate &ndash; It is your right to negotiate a fair price.&nbsp; Oftentimes you will get a better price by bargaining.</span></li>\r\n<li><span style=\"font-size: medium;\">Familiarize yourself with the local funeral and burial laws.&nbsp; Funeral homes must specify any local law requirements in regards to services or expenses.</span></li>\r\n<li><span style=\"font-size: medium;\">Compare our General Price List to that of a few other funeral homes.</span></li>\r\n<li><span style=\"font-size: medium;\">Alert the funeral home to fact that you are a comparison shopper.&nbsp; Make sure to get a list of all expenses and fees they charge.</span></li>\r\n<li><span style=\"font-size: medium;\">Purchase only the products and services that you want and need. Some funeral homes offer funeral packages, but they may include items you do not want or need, resulting in an extra expenditure for you.</span></li>\r\n<li><span style=\"font-size: medium;\">If you end up purchasing a casket online, the funeral home must accept it.&nbsp; The FTC Funeral Rule requires the funeral home to accept any casket the family chooses, regardless of where it was bought.</span></li>\r\n<li><span style=\"font-size: medium;\">Do not reveal to the funeral home if insurance benefits are covering the funeral costs &ndash; with this information, they will often adjust their costs upwards to claim the entire amount.</span></li>\r\n</ol>\r\n<p><span style=\"font-size: medium;\">We proudly offer a 24 hour 7 day a week Customer Service Center. We accept various forms of payment as well as payment plans for our pre-need options.&nbsp; We're available 24-hours a day at&nbsp;<a href=\"mailto:sales@overnightcasket.com\">sales@overnightcasket.com</a>, or call 800-323-1254.</span></p>",
+            "views": 0,
+            "sort_order": 11,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/pre-planning/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 154,
+            "parent_id": 40,
+            "name": "Caskets By Interior",
+            "description": "<p>Overnight Caskets product sort based on interiors</p>",
+            "views": 0,
+            "sort_order": 9,
+            "page_title": "Funeral Caskets Sort by Interior",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/caskets-interior/",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 155,
+            "parent_id": 154,
+            "name": "Velvet Interior",
+            "description": "<p>Overnight Caskets Funeral Caskets with Velvet Interiors</p>",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "Funeral Caskets with Velvet Interiors",
+            "search_keywords": "velvet",
+            "meta_keywords": [
+                "caskets",
+                "casket",
+                "coffin",
+                "coffins",
+                "cofin",
+                "cofins",
+                "velvet",
+                "luxurious"
+            ],
+            "meta_description": "Funeral caskets and coffins with velvet lining for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/caskets-velvet-interior/",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 156,
+            "parent_id": 154,
+            "name": "Crepe Interior",
+            "description": "",
+            "views": 0,
+            "sort_order": 1,
+            "page_title": "Funeral Caskets with Crepe Interiors For Sale Online | Overnight Caskets",
+            "search_keywords": "crepe",
+            "meta_keywords": [
+                "caskets",
+                "casket",
+                "coffin",
+                "coffins",
+                "cofin",
+                "cofins",
+                "crepe"
+            ],
+            "meta_description": "Crepe lined funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/crepe-interior",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 158,
+            "parent_id": 0,
+            "name": "Metal Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 3,
+            "page_title": "Funeral Metal Caskets For Sale | Overnight Caskets",
+            "search_keywords": "Metal, Steel",
+            "meta_keywords": [],
+            "meta_description": "Overnight Caskets offers the best funeral metal caskets at the lowest prices. Fully customizable, our handcrafted coffins are accepted at all funeral homes.",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/metal_caskets",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 160,
+            "parent_id": 0,
+            "name": "Wood Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 4,
+            "page_title": "Funeral Wood Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "Wood",
+            "meta_keywords": [],
+            "meta_description": "Our funeral wood caskets are crafted with natural beauty and warmth, to honor your loved one's memory. Find solace in the enduring quality of Overnight Caskets.",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/caskets_wood/",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 161,
+            "parent_id": 40,
+            "name": "Religious Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 4,
+            "page_title": "Religious Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "religious, holy",
+            "meta_keywords": [
+                "spiritual",
+                "holy",
+                "religious",
+                "pious"
+            ],
+            "meta_description": "Overnight Caskets offers a wide selection of religious caskets for sale with customizable options for Christian, Muslim, and Jewish burials. Free shipping!",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "best_selling",
+            "custom_url": {
+                "url": "/religious-caskets",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 179,
+            "parent_id": 40,
+            "name": "Caskets By Color",
+            "description": "",
+            "views": 0,
+            "sort_order": 6,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "category.html",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/caskets-by-color/",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 180,
+            "parent_id": 179,
+            "name": "Black Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "Black Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "black, dark, stately, formal",
+            "meta_keywords": [
+                "caskets",
+                "casket",
+                "coffin",
+                "coffins",
+                "cofin",
+                "cofins",
+                "negro",
+                "nor",
+                "dark"
+            ],
+            "meta_description": "Black funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/black-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 181,
+            "parent_id": 179,
+            "name": "Blue Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "Blue Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "blue, aqua, azule, sky",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens",
+                "blue",
+                "azule"
+            ],
+            "meta_description": "Blue funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/blue-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 182,
+            "parent_id": 41,
+            "name": "20-Gauge Metal",
+            "description": "",
+            "views": 0,
+            "sort_order": 2,
+            "page_title": "20 Gauge Metal Caskets For Sale | Overnight Caskets",
+            "search_keywords": "metal, steel, alloy",
+            "meta_keywords": [
+                "steel",
+                "metal",
+                "alloy"
+            ],
+            "meta_description": "Discover high-quality 20 gauge metal caskets for sale at Overnight Caskets. You can choose from a variety of elegant designs with free shipping available.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/20-gauge-metal/",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 183,
+            "parent_id": 179,
+            "name": "Red Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "Red Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "red, colorful,",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens",
+                "red",
+                "apple"
+            ],
+            "meta_description": "Red funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/red-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 184,
+            "parent_id": 179,
+            "name": "Pink Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "Pink Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "female, pretty, beautiful, feminine, womens",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens",
+                "womens",
+                "female",
+                "feminine"
+            ],
+            "meta_description": "Pink funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/pink-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 185,
+            "parent_id": 179,
+            "name": "Purple Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "Purple Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "purple, mauve, plum, colorful, pastel",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens",
+                "mauve"
+            ],
+            "meta_description": "Purple funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/purple-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 186,
+            "parent_id": 179,
+            "name": "Silver Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "Silver Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "silver, sleek, steel, gunmetal",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens",
+                "sleek",
+                "gun metal",
+                "gunmetal"
+            ],
+            "meta_description": "Silver funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/silver-funeral-caskets/",
+                "is_customized": true
+            },
+            "image_url": ""
+        },
+        {
+            "id": 187,
+            "parent_id": 179,
+            "name": "White Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "White Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "white, snow, plain, austere, simple",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens",
+                "pure",
+                "pious"
+            ],
+            "meta_description": "White funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/white-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 188,
+            "parent_id": 179,
+            "name": "Mahogany Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 3,
+            "page_title": "Mahogany Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "wood, natural, premium, hardwood, mahogany",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens",
+                "wood",
+                "hardwood"
+            ],
+            "meta_description": "Mahogany funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "category.html",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/mahogany-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 190,
+            "parent_id": 41,
+            "name": "All Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 4,
+            "page_title": "",
+            "search_keywords": "",
+            "meta_keywords": [],
+            "meta_description": "",
+            "layout_file": "",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/all-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 191,
+            "parent_id": 179,
+            "name": "Gold Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 4,
+            "page_title": "Gold Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "Gold, shiny, rich, sunset",
+            "meta_keywords": [
+                "caskets",
+                "casket",
+                "coffin",
+                "coffins",
+                "cofin",
+                "cofins",
+                "gold",
+                "rich"
+            ],
+            "meta_description": "Gold funeral caskets and coffins for sale online. Discount prices.",
+            "layout_file": "",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/gold-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 192,
+            "parent_id": 179,
+            "name": "Bronze Funeral Caskets",
+            "description": "",
+            "views": 0,
+            "sort_order": 0,
+            "page_title": "Overnight Caskets Bronze Caskets and Coffins",
+            "search_keywords": "Bronze",
+            "meta_keywords": [
+                "coffins",
+                "coffin",
+                "cofin",
+                "cofins",
+                "coffen",
+                "coffens"
+            ],
+            "meta_description": "",
+            "layout_file": "",
+            "is_visible": false,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/bronze-funeral-caskets/",
+                "is_customized": false
+            },
+            "image_url": ""
+        },
+        {
+            "id": 194,
+            "parent_id": 0,
+            "name": "Veterans",
+            "description": "",
+            "views": 0,
+            "sort_order": 1,
+            "page_title": "Veterans Funeral Caskets For Sale Online | Overnight Caskets",
+            "search_keywords": "veteran, veterans, soldier, army, navy, air force, marines, space force",
+            "meta_keywords": [
+                "veteran",
+                "veterans",
+                "soldier",
+                "army",
+                "navy",
+                "air force",
+                "marines",
+                "space force"
+            ],
+            "meta_description": "Funeral coffins and caskets for military and veterans.",
+            "layout_file": "",
+            "is_visible": true,
+            "default_product_sort": "use_store_settings",
+            "custom_url": {
+                "url": "/veterans/",
+                "is_customized": false
+            },
+            "image_url": ""
+        }
+    ],
+    "total_categories": 95
+}
