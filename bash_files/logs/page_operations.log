@@ -1,0 +1,849 @@
+Script started at: 2024-11-11 13:15:01
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/page_operations.py:1: LangChainDeprecationWarning: Importing PGVector from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import PGVector
+
+with new imports of:
+
+>> from langchain_community.vectorstores import PGVector
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores.pgvector import PGVector
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/page_operations.py:2: LangChainDeprecationWarning: Importing OpenAIEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import OpenAIEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import OpenAIEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings import OpenAIEmbeddings
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/page_operations.py:75: SAWarning: Did not recognize type 'vector' of column 'embedding'
+  langchain_pg_embedding = Table('langchain_pg_embedding', metadata, autoload_with=engine)
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/page_operations.py:105: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  embedding=OpenAIEmbeddings(),
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/.python3.10/lib/python3.10/site-packages/langchain_community/vectorstores/pgvector.py:487: LangChainPendingDeprecationWarning: Please use JSONB instead of JSON for metadata. This change will allow for more efficient querying that involves filtering based on metadata. Please note that filtering operators have been changed when using JSONB metadata to be prefixed with a $ sign to avoid name collisions with columns. If you're using an existing database, you will need to create a db migration for your metadata column to be JSONB and update your queries to use the new operators. 
+  store = cls(
+Marked record with custom_id: 1_page_N6Zcuq3pAF for deletion, page_name: FAQ
+Inserted new record for page_content='
+        Page ID: 4
+        Page Name: FAQ
+        Content: 
+Frequently Asked Questions
+&nbsp;
+Can you guarantee overnight delivery?
+Guaranteed overnight delivery is available for our customers&nbsp;throughout the country.
+See disclaimer below.
+Disclaimer: Orders must be placed by 1pm EST cutoff time to guarantee next day&nbsp;delivery. &nbsp;Any orders placed on Friday after the 1pm EST cutoff time, Saturday or&nbsp;Sunday will not be processed until the following Monday. &nbsp;We advise&nbsp;shipping directly to the funeral home as residential delivery could delay&nbsp;transit time. &nbsp;Please do not hesitate to contact us if you need further&nbsp;assistance.
+Why are your caskets priced so much lower than the funeral home?
+We get our inventory from an independent manufacturer. &nbsp;We also do not&nbsp;have the high overhead of a funeral home, therefore we are able to offer&nbsp;supreme discounts on our products.
+Can you guarantee the quality of the casket?
+Yes, we at Overnight Caskets go through an extensive quality control process at the factory to&nbsp;ensure our caskets are of the highest quality. We offer a return or&nbsp;exchange policy if you are not satisfied with the casket. Please refer to our&nbsp;return policy.
+How come the funeral home does not recommend buying a casket online?
+Quite frankly, the funeral homes do not want you to purchase anything&nbsp;related to a funeral online because it takes directly business away from&nbsp;them. &nbsp;However, with the growing number of customers exploring the option&nbsp;of online casket purchasing, the &ldquo;steering&rdquo; of a customer to funeral home&nbsp;provided funeral necessities has reduced over the past couple years.
+What if the funeral home will not accept the casket?
+According to Federal Trade Commission&rsquo;s Funeral Rule&nbsp;(https://www.consumer.ftc.gov/articles/0300-ftc-funeral-rule)&nbsp;, to encourage&nbsp;fair trade and protection for the consumers, the funeral homes have no&nbsp;choice but to accept any caskets you chose whether from a third party&nbsp;vendor or not.&nbsp;Moreover, they cannot institute any extra fees or costs to&nbsp;accept caskets from a third party vendor.
+If I purchase a casket from an outside source, is it necessary to inform the&nbsp;funeral home?
+Under the guidelines of the FTC Funeral Rule mentioned above, it is not&nbsp;necessary to mention your intent to search elsewhere for funeral necessities.&nbsp;By law they have to show you a GPL (General Price List) of the products and&nbsp;services they offer and the prices of each. &nbsp;Once you see what they have to&nbsp;offer, then you may choose to inform them of your intent. While not&nbsp;required, it would be common courtesy to inform them of your decision.
+Can I buy the casket for later use?
+Yes, you may buy a casket for later use. However, we do not recommend it. We understand there are exceptions based on an individual's circumstances. We offer a 6 months storage and free delivery to your destination within the state of California.
+Do you sell caskets for cremation?
+Yes, we offer caskets for cremation. Scroll over &ldquo;Fine Wood Caskets&rdquo; in the top categories and click on &ldquo;Cremation Caskets&rdquo; in the drop down menu.
+What does the &ldquo;gauge&rdquo; number refer to?
+It refers to the thickness of the steel. &nbsp;The lower the gauge, the thicker the&nbsp;steel is. 18 gauge metal is thicker&nbsp;than 20 gauge metal, hence the&nbsp;occasional price increase.
+What is a sealer or gasket casket?
+It is a rubber seal on the gasket to keep water and air out. It&nbsp;has not been proven that a gasket sealer can slow the decomposition of a&nbsp;body. However, a gasket sealer may be required if transporting the deceased&nbsp;across state line or transporting by air, sea, or train.&nbsp;All of our metal caskets come with the rubber gasket sealer at no additional charge.
+What kind of packaging do you use?
+Our caskets are packaged in a Styrofoam contoured cardboard box, which is&nbsp;then put in a plywood box. This packaging is made specifically to prevent any type of damage when loading and unloading the casket.&nbsp;Please note, very few funeral homes require the customer or transportation company to&nbsp;dispose the packaging of the delivered casket. If the funeral home has such a requirement, please do not be worried.
+Customers have 2 choices:
+1. Do it yourself - At the time of delivery, take away packaging and dispose&nbsp;it yourself. The packaging is a cardboard box (can be folded up) and&nbsp;styrofoam (can be easily cut or broken into pieces). The packaging can then&nbsp;be taken away and desposed of.
+2. The delivery company can take packaging away for a $35 fee. Please let us&nbsp;know at the time of purchase if you require the packaging disposal service&nbsp;(This service may not be available for some areas. Customer will not be&nbsp;charged for this service until we have confirmed the packaging has been&nbsp;disposed by the delivery company.)
+Please note: If Overnight Caskets has not been informed prior to the purchsae about&nbsp;the disposal requirement, we cannot instruct the driver to take away&nbsp;packaging.
+Is ordering a casket online a complex process?
+Our online ordering process is quite simple. &nbsp;Simply browse our catalog of&nbsp;caskets for whatever suits your choice. &nbsp;Should you have any questions,&nbsp;our toll free Customer Service Center is open 24/7 to provide assistance with&nbsp;any inquiries you may have. &nbsp;We accept all major credit cards, PayPal, and&nbsp;also offer interest-free financing for 6 months. &nbsp;Please do not hesitate to ask&nbsp;about our special financing program. &nbsp;Our Customer Service Center will&nbsp;contact you immediately after you place your order to confirm all the&nbsp;necessary details. &nbsp;We will then contact the funeral home you designate to&nbsp;coordinate timely delivery.
+What differentiates you from other online casket dealers?
+We at Overnight Caskets are dedicated to treating our customers and orders&nbsp;with the utmost respect and urgency. &nbsp;Our friendly and helpful&nbsp;representatives at our Customer Service Center will guide you through every&nbsp;step of the way. &nbsp;Our interest-free financing program is easy to apply for and&nbsp;significantly lessens the burdens imposed while arranging a funeral.
+How am I sure I am selecting the right casket?
+If you are having trouble deciding based on the pictures on our website,&nbsp;please feel free to contact our experienced sales staff and we will assist you in choosing from our line of metal and wood caskets
+Do you make oversize or undersize caskets?
+Yes, we offer both oversize and undersized caskets
+Do you offer free delivery?
+Please visit the shipping page for more information.
+Do you serve various groups with special customs &amp; traditions?
+Yes,&nbsp;Overnight Caskets is committed to serving people of all race, color, creed, or&nbsp;religion. &nbsp;We offer many different casket options that are acceptable to&nbsp;wherever your beliefs may lie
+Q. I understand that you offer outstanding prices for caskets, but is the&nbsp;quality just as exceptional?
+A. Yes. We have embraced a balance that allows us to deliver incredible,&nbsp;high-quality caskets at the lowest prices available. We have models in 18-&nbsp;gauge steel, hardwood, and veneer. Interiors are rendered in high-quality&nbsp;fabric. The designs are sturdy, tasteful, and dignified. We are quite proud of&nbsp;our products, and our customers are enthusiastic in their support.
+Q. For air transport, can I transport the casket from the airport myself?
+A. Yes you may transport the casket from the airport yourself to save on courier expenses.. You will need to have a suitable vehicle to transport such as a cargo van or a pickup truck with cargo restraints. Please contact us to coordinate pickup arrangements.
+Q. What forms of payment do you accept?
+A. At Overnight Caskets, we accept all major credit cards, debit cards, &nbsp;or online payment via PayPal. We also provide financing option with Affirm. Please contact us for more details.
+Q. Once I have ordered a casket, do I have an opportunity to change my&nbsp;mind?
+A. Please see our return policy for more information.
+Q. What kinds of details will I have to oversee once I submit my order?
+A. We know that you have a lot on your mind, so we do our best to ensure&nbsp;that you do not have to worry about the details of your order. We will&nbsp;arrange all the details of transport, both air and ground. We'll get your order&nbsp;to your funeral home on-time, every time. We will also coordinate delivery&nbsp;with the funeral home &ndash; there is no need for you to be there. We will handle&nbsp;all the work so you can concentrate on what is important to you.
+Q. How large is a typical casket?
+A. The exterior measurements of the most common size for a casket are&nbsp;about 24" deep, 27-1/2" to 30-1/2" wide, and 81" in length.
+Q. If there are any problems with my order, when are you available to&nbsp;contact?
+Our Customer Service Center can be contacted 24 hours a day at 800 323-1254. &nbsp;Or you can submit email inquiries to&nbsp;sales@overnightcaskets.com.
+We are here to be of service to you.
+        ' metadata={'page_id': 4, 'page_name': 'FAQ'} as no existing record was found.
+Marked record with custom_id: 2_page_RU3SFTzuJQ for deletion, page_name: Financing
+Inserted new record for page_content='
+        Page ID: 5
+        Page Name: Financing
+        Content: FINANCING
+
+WE KNOW HOW UNEXPECTED A FUNERAL EXPENSE CAN BE. THATS WHY HERE AT OVERNIGHT CASKETS WE OFFER&nbsp;FINANCING&nbsp;WITH AFFIRM. OUR SPECIAL FINANCING HAS MANY PERKS TO EASE YOUR FINANCIAL STRESS INCLUDING:
+
+NO INTEREST FOR UP TO 12 MONTHS
+GET APPROVED IN MINUTES RIGHT OVER THE INTERNET
+OVER 85% APPROVAL RATE
+
+JUST CHOOSE AFFIRM AT CHECKOUT AND ANSWER 6 QUESTIONS FOR AN INSTANT ANSWER
+&nbsp;
+// <![CDATA[
+(function (d, t) {
+"use strict";
+var s = d.getElementsByTagName(t)[0], n = d.createElement(t);
+n.src = "//paypal.adtag.where.com/merchant.js";
+s.parentNode.insertBefore(n, s);
+}(document, "script"));
+// ]]>
+        ' metadata={'page_id': 5, 'page_name': 'Financing'} as no existing record was found.
+Marked record with custom_id: 3_page_wyb54HNGuD for deletion, page_name: About Us
+Inserted new record for page_content='
+        Page ID: 6
+        Page Name: About Us
+        Content: &nbsp;THANK YOU FOR SHOPPING WITH
+
+&nbsp;
+&nbsp;
+Our Mission:
+We at Overnight Caskets strive to alleviate the unnecessary burden placed upon grieving families at some of the most difficult times.&nbsp; Our vision is to provide families with quality service and distinguished products so your loved one may rest peacefully.&nbsp; We proudly offer a wide array of dignified funeral necessities at a discounted price; arrange timely delivery to the funeral home of your choice, all while providing unparalleled professionalism and customer service.&nbsp; Overnight shipping availability ensures on time delivery for a smooth, worry free transaction.&nbsp; Our Customer Service Center is available 24 hours a day to help you along the way.&nbsp; We are here to be of service to you.&nbsp; &nbsp;&nbsp;
+&nbsp;
+Our Commitment:
+Overnight Caskets is committed to delivering our customers an unparalleled standard of quality, care, and customer service. &nbsp;Our user friendly ordering service and guaranteed delivery times provide peace of mind to families in trying times.&nbsp; Our dedicated customer service staff is available 24 hours a day, 7 days a week to assist you with any questions you may have.&nbsp; We understand the severity of the matter and treat each and every order with the utmost importance.
+&nbsp;
+Our Story:
+We are aware of the hardships families go through when losing a loved one.&nbsp; We have experienced first-hand the price gauging practices implemented by funeral homes when it comes to buying funeral necessities.&nbsp; We started this company with the idea of finding a way to offer grieving families a more diversified selection of funeral necessities than your ordinary funereal home, while also extending our customers significantly discounted prices. &nbsp;Through vigorous efforts we were able to secure partnerships with multiple casket and keepsake suppliers and manufacturers as well as over 200 shipping carriers. &nbsp;Today we are extremely pleased to be able to offer our customers a wide assortment of high quality funeral necessities at a substantially more affordable price. &nbsp;We kindly invite you to shop with us.
+&nbsp;
+&nbsp;
+
+        ' metadata={'page_id': 6, 'page_name': 'About Us'} as no existing record was found.
+Marked record with custom_id: 4_page_VmpLuyKOUu for deletion, page_name: Shipping
+Inserted new record for page_content='
+        Page ID: 7
+        Page Name: Shipping
+        Content: &nbsp;Standard Shipping is Free
+As an industry leading company, we certainly recognize the importance of timely, reliable&nbsp;shipping. Overnight Caskets has partnered up with over 200 ground and air freight shipping companies to provide our customers with the best quality shipping rates and times throughout the country.&nbsp;
+Disclaimer: To guarantee next business day delivery, orders must be placed by our cutoff time of 1:00pm EST to ship out the same day. Shipping times are based on business days. We do not deliver on weekends unless special arrangements have been made. Any orders placed on Friday after the 1:00pm EST cutoff time, Saturday or&nbsp;Sunday will not be processed until the following Monday. Curbside delivery only.&nbsp; We advise&nbsp;shipping directly to the funeral home as residential delivery could delay&nbsp;transit time and will incur an additional charge depending on location.&nbsp; Please do not hesitate to contact us if you need further&nbsp;assistance.
+&nbsp;
+Shipping Methods:
+&nbsp;
+Free Shipping ( 3-5 business days )
+Standard Ground Shipping (3 business days)
+Expedited Ground Shipping (2 business days)
+Guaranteed Overnight Shipping (1 business day)
+&nbsp;
+&nbsp;**ALL SHIPPING QUOTES PERTAIN TO CASKETS IN STOCK IN THE NEAREST LOCAL WAREHOUSE**
+***ALL SHIPPING TIMES ARE GUARANTEED UNLESS DELAYED BY CIRCUMSTANCES OUT OF OUR CONTROL, SUCH AS ACTS OF GOD***
+&nbsp;
+Find Your Nearest Local Warehouse:
+WEST COAST CASKETS:&nbsp;%%GLOBAL_ShopPathSSL%%/west-coast-caskets/
+EAST COAST CASKETS:&nbsp;%%GLOBAL_ShopPathSSL%%/east-coast-caskets/
+SOUTH EAST CASKETS:&nbsp;%%GLOBAL_ShopPathSSL%%/south-east-caskets/
+&nbsp;
+&nbsp;Please email, call, or click the live chat button for a&nbsp;LIVE&nbsp;quote. We will use our resources to provide you with multiple shipping options.
+&nbsp;
+Next Day Shipping Available In the Following States:
+
+Arizona
+Nevada
+Idaho
+New Mexico
+Oregon
+Washington
+Utah
+Colorado
+Montana
+Wyoming
+North Dakota
+South Dakota
+Nebraska
+Kansas
+Oklahoma
+Wisconsin
+Texas
+Arkansas
+Louisiana
+Mississippi
+Minnesota
+Iowa
+Missouri
+Illinios
+Michigan
+Indiana
+Ohio
+Tennessee
+Kentucky&nbsp;
+Alabama
+Georgia
+Florida
+North Carolina
+South Carolina
+Maine
+Vermont
+New Hampshire
+Massachusetts
+Delaware
+Conneticut
+New York
+New Jersey
+Pennsylvania
+Maryland
+Virginia
+West Virginia
+Rhode Island
+
+&nbsp;
+&nbsp;
+        ' metadata={'page_id': 7, 'page_name': 'Shipping'} as no existing record was found.
+Marked record with custom_id: 5_page_ZWdleUj9CT for deletion, page_name: Return Policy
+Inserted new record for page_content='
+        Page ID: 8
+        Page Name: Return Policy
+        Content: Return Policy
+If your order has been shipped, you are responsible for the following policy:
+In the event that you cancel or return an order, a 30% restocking fee will be deducted from your credit in addition to the return shipping cost. All claims for damages must be made within two weeks of purchase. In the event that a casket or a headstone arrives damaged by the shipping company, we will either exchange the casket for the same or a similar casket upon customers approval, or a full refund. Returns must include the box and packaging the item arrived in.
+As stated in Shipping Policy,&nbsp;delivery times are guaranteed unless delayed by circumstances out of our control such as Acts of God. Orders returned or refused due to delays cause by Acts of God will be subject to Return Policy.
+Expedited shipping charges are non refundable
+If you refuse to accept delivery of the package and the package is returned to us, this will be considered an order cancellation and you will be subject to cancellation charges.
+As we process the orders with great care and concern accordingly to the customers&rsquo; requirements and specifications; in return, we would like the customer to treat the order seriously. There is no exception to these charges. If you have any questions on your order or our products, you can email us and you will receive a response from us usually within 1 hour.
+In the event that an item arrives damaged, customer has 15 days from the date of delivery to file a claim.&nbsp;
+All returns must be made within 48 hours after receiving your purchased order or orders. We will exchange your purchase or credit/refund your order less shipping charges. All shipping charges are non-refundable and are the responsibility of the customer (both on returning back to us and shipping it back to the customer) unless we made a mistake in processing your order. If a mistake is made by us, we will either offer a 100% refund or send a replacement.
+We will not accept returns for any product or products that appear to be used, soiled, or in any other condition different from the originally shipped condition. The original packaging must be kept in tact in the event customer requests a return.&nbsp;
+It is the customer's responsibility when placing an order to make sure that the casket chosen meets all requirements for one's own religion and size. Once order is placed and shipped out, it is the customer's responsibility to comply with our return policy in the event you request to cancel your order.
+        ' metadata={'page_id': 8, 'page_name': 'Return Policy'} as no existing record was found.
+Marked record with custom_id: 6_page_vGg7QPUWjN for deletion, page_name: Terms
+Inserted new record for page_content='
+        Page ID: 9
+        Page Name: Terms
+        Content: This web page represents a legal document that serves as our Terms and Conditions and it governs the legal terms of our website, OvernightCaskets.com, sub-domains, and any associated web-based and mobile applications (collectively, "Website"), as owned and operated by Overnight Caskets, INC. .
+Capitalized terms, unless otherwise defined, have the meaning specified within the Definitions section below. This Terms and Conditions, along with our Privacy Policy, any mobile license agreement, and other posted guidelines within our Website, collectively "Legal Terms", constitute the entire and only agreement between you and Overnight Caskets, INC. , and supersede all other agreements, representations, warranties and understandings with respect to our Website and the subject matter contained herein. We may amend our Legal Terms at any time without specific notice to you. The latest copies of our Legal Terms will be posted on our Website, and you should review all Legal Terms prior to using our Website. After any revisions to our Legal Terms are posted, you agree to be bound to any such changes to them. Therefore, it is important for you to periodically review our Legal Terms to make sure you still agree to them.
+By using our Website, you agree to fully comply with and be bound by our Legal Terms. Please review them carefully. If you do not accept our Legal Terms, do not access and use our Website. If you have already accessed our Website and do not accept our Legal Terms, you should immediately discontinue use of our Website.
+The last update to our Terms and Conditions was posted on June 18, 2013.
+Definitions
+The terms "us" or "we" or "our" refers to Overnight Caskets, INC. , the owner of the Website.
+A "Visitor" is someone who merely browses our Website, but has not registered as Member.
+A "Member" is an individual that has registered with us to use our Service.
+Our "Service" represents the collective functionality and features as offered through our Website to our Members.
+A "User" is a collective identifier that refers to either a Visitor or a Member.
+All text, information, graphics, audio, video, and data offered through our Website are collectively known as our "Content".
+Limited License
+Overnight Caskets, INC. grants you a non-exclusive, non-transferable, revocable license to access and use our Website strictly in accordance with our Legal Terms. Your use of our Website is solely for the purposes stated within our Legal Terms; any other use is a violation of this license and will result in the revocation of your membership.
+Legal Compliance
+You agree to comply with all applicable domestic and international laws, statutes, ordinances, and regulations regarding your use of our Website. Overnight Caskets, INC. reserves the right to investigate complaints or reported violations of our Legal Terms and to take any action we deem appropriate, including but not limited to canceling your Member account, reporting any suspected unlawful activity to law enforcement officials, regulators, or other third parties and disclosing any information necessary or appropriate to such persons or entities relating to your profile, email addresses, usage history, posted materials, IP addresses and traffic information, as allowed under our Privacy Policy.
+Intellectual Property
+Our Website may contain our service marks or trademarks as well as those of our affiliates or other companies, in the form of words, graphics, and logos. Your use of our Website does not constitute any right or license for you to use such service marks/trademarks, without the prior written permission of the corresponding service mark/trademark owner. Our Website is also protected under international copyright laws. The copying, redistribution, use or publication by you of any portion of our Website is strictly prohibited. Your use of our Website does not grant you ownership rights of any kind in our Website.
+Links to Other Websites
+Our Website may contain links to third party websites. These links are provided solely as a convenience to you. By linking to these websites, we do not create or have an affiliation with, or sponsor such third party websites. The inclusion of links within our Website does not constitute any endorsement, guarantee, warranty, or recommendation of such third party websites. Overnight Caskets, INC. has no control over the legal documents and privacy practices of third party websites; as such, you access any such third party websites at your own risk.
+Warranty Disclaimer
+Overnight Caskets, INC. reserves the right to change any and all Content and features of our Website, at any time without notice. While our Website is currently free to use, we may begin charging for use of all or part of its features at any time, without notice to you. Our Website may be temporarily unavailable from time to time for maintenance or other reasons. Overnight Caskets, INC. assumes no responsibility for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of, Member Content. Overnight Caskets, INC. is not responsible for any technical malfunction or other problems of any telephone network or service, computer systems, servers or providers, computer or mobile phone equipment, Website, failure of email or players on account of technical problems or traffic congestion on the Internet or any combination thereof, including injury or damage to anyone's computer, mobile phone, or other hardware or Website, related to or resulting from using, uploading, or downloading materials in connection with our Website. Under no circumstances will Overnight Caskets, INC. be responsible for any loss or damage, including any loss or damage or personal injury or death, resulting from anyone's use of our Website, or for any interactions between Users of our Website, whether online or offline.
+OUR WEBSITE IS PROVIDED "AS-IS," "AS AVAILABLE," WITH "ALL FAULTS", AND ALL WARRANTIES, EXPRESS OR IMPLIED, ARE DISCLAIMED (INCLUDING BUT NOT LIMITED TO THE DISCLAIMER OF ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE). OUR WEBSITE MAY CONTAIN BUGS, ERRORS, PROBLEMS OR OTHER LIMITATIONS. Overnight Caskets, INC. , INCLUDING ALL OUR AFFILIATES, HAVE NO LIABILITY WHATSOEVER FOR YOUR USE OF OUR WEBSITE, OTHER THAN AS SPECIFIED IN OUR LEGAL TERMS. Overnight Caskets, INC. CANNOT GUARANTEE AND DOES NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF OUR WEBSITE. Overnight Caskets, INC. DOES NOT REPRESENT OR WARRANT THAT OUR WEBSITE IS ACCURATE, COMPLETE, RELIABLE, CURRENT OR ERROR-FREE OR THAT IT IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. THEREFORE, YOU SHOULD EXERCISE CAUTION IN THE USE AND DOWNLOADING OF ANY SUCH CONTENT AND USE INDUSTRY-RECOGNIZED PROGRAMS TO DETECT AND REMOVE VIRUSES. ALL RESPONSIBILITY OR LIABILITY FOR ANY DAMAGES CAUSED BY VIRUSES SOMEHOW ATTRIBUTED TO OUR WEBSITE IS DISCLAIMED. WITHOUT LIMITING THE FOREGOING, YOU UNDERSTAND AND AGREE THAT YOU USE OUR WEBSITE AT YOUR OWN RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR YOUR USE THEREOF AND ANY DAMAGES TO YOU, YOUR MOBILE DEVICE OR COMPUTER SYSTEM, OR OTHER HARM OF ANY KIND THAT MAY RESULT. WE, AS WELL AS ALL OF OUR AFFILIATES, ARE NOT LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF INCOME, BUSINESS, PROFITS, LITIGATION, OR THE LIKE), WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE NEGATION AND LIMITATION OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN YOU AND Overnight Caskets, INC. . OUR WEBSITE WOULD NOT BE PROVIDED WITHOUT SUCH LIMITATIONS. NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM US THROUGH OUR WEBSITE SHALL CREATE ANY WARRANTY, REPRESENTATION OR GUARANTEE NOT EXPRESSLY STATED IN OUR LEGAL TERMS.
+Limitation of Liability
+Overnight Caskets, INC. , as well as all our affiliates, shall not be liable for any loss, injury, claim, liability, or damage of any kind resulting in any way from (a) any errors in or omissions from our Website; (b) the unavailability or interruption of our Website; (c) your use of our Website; or (d) any delay or failure in performance of our Website.
+Overnight Caskets, INC. AND ITS AFFILIATES ARE NOT LIABLE FOR THE ACTS, ERRORS, OMISSIONS, REPRESENTATIONS, WARRANTIES, BREACHES OR NEGLIGENCE OR FOR ANY PERSONAL INJURIES, DEATH, PROPERTY DAMAGE, OR OTHER DAMAGES OR EXPENSES RESULTING THEREFROM. Overnight Caskets, INC. AND ITS AFFILIATES HAVE NO LIABILITY AND WILL MAKE NO WARRANTY, REFUND, OR OTHER RESTITUTION TO YOU WITH REGARDS TO OUR WEBSITE, OTHER THAN AS SPECIFIED HEREIN, FOR ANY REASON, INCLUDING, BUT NOT LIMITED TO, DELAYS, CANCELLATIONS, STRIKES, GOVERNMENTAL ISSUES, OR FORCE MAJEURE.
+IN NO EVENT WILL Overnight Caskets, INC. OR ITS DIRECTORS, EMPLOYEES OR AGENTS BE LIABLE TO YOU OR ANY THIRD PERSON FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING FOR ANY LOSSES ARISING FROM YOUR USE OF OUR WEBSITE, EVEN IF Overnight Caskets, INC. IS AWARE OR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, Overnight Caskets, INC. 'S LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO YOUR CEASING USE OF OUR WEBSITE.
+General Terms
+Our Legal Terms shall be treated as though it were executed and performed in California, United States, and shall be governed by and construed in accordance with the laws of California, United States, without regard to conflict of law principles. In addition, you agree to submit to the personal jurisdiction and venue of such courts. Any cause of action by you with respect to our Website, must be instituted within one (1) year after the cause of action arose or be forever waived and barred. Should any part of our Legal Terms be held invalid or unenforceable, that portion shall be construed consistent with applicable law and the remaining portions shall remain in full force and effect. To the extent that any Content in our Website conflicts or is inconsistent with our Legal Terms, our Legal Terms shall take precedence. Our failure to enforce any provision of our Legal Terms shall not be deemed a waiver of such provision nor of the right to enforce such provision. The rights of Overnight Caskets, INC. under our Legal Terms shall survive the termination of our Legal Terms.
+        ' metadata={'page_id': 9, 'page_name': 'Terms'} as no existing record was found.
+Marked record with custom_id: 7_page_mwOpdQibVm for deletion, page_name: Contact Us
+Inserted new record for page_content='
+        Page ID: 10
+        Page Name: Contact Us
+        Content: Contact Us
+At Overnight Caskets, we take great pride in being available 24/7 for our customers.&nbsp;
+&nbsp;
+Our LIVE CHAT is always available. Do not hesitate to ask ANY question you may have. 
+&nbsp;
+Feel free to contact our toll free number. Hours: 24/7
+&nbsp;1(800) 323-1254
+&nbsp;
+For any questions or concerns about the products, please email:
+Sales@Overnightcaskets.com
+For Shipping Questions and quotes, please email:
+Shipping@Overnightcaskets.com
+&nbsp;
+E-mails are answered daily. Expect a response to your email within the following hour.
+&nbsp;
+Headquarters:&nbsp;
+Overnight Caskets
+7515 Telegraph Rd
+Montebello, CA 90640
+&nbsp;
+We also have distribution points located in New Jersey, Indiana, Georgia and Seattle.
+&nbsp;
+If you would like to visit our warehouse, please call in advance.
+&nbsp;
+        ' metadata={'page_id': 10, 'page_name': 'Contact Us'} as no existing record was found.
+Marked record with custom_id: 8_page_4CgHDKCh49 for deletion, page_name: Funeral Arrangements 
+Inserted new record for page_content='
+        Page ID: 11
+        Page Name: Funeral Arrangements 
+        Content: FUNERAL ARRANGEMENTS
+Dealing with the passing of a loved one can create quite a number of unforeseen challenges. Not only is there massive emotional pain and grief to deal with, but planning a funeral also necessitates a significant outlay of time, energy &amp; money. Wrestling with these emotions while also needing to make sound, coherent choices for the family can often lead to frustration and dissent.&nbsp; Managing funeral costs can become quite the arduous task if not properly prepared.&nbsp; The average cost of a standard funeral ranges anywhere between $5500 and $7500.&nbsp; You should ask yourself if all these costs are indeed warranted.&nbsp; Oftentimes, due to the mental wear and tear from the overwhelming grief, as well as the need you feel to properly remember your deceased loved one, it is quite difficult to constrain your funeral expenses.&nbsp; Standard shopping tactics such as price negotiation and price comparison can be overlooked in such chaotic times.&nbsp; This leads to the majority of people paying much more than they reasonably should for funeral proceedings.
+Overnight Casket&rsquo;s goal is to not only deliver quality, dignified products suitable for your loved ones, but also to do so in a manner that successfully helps you manage your funeral costs. Therefore, we have put together a guide of simple steps you should take while planning a funeral.
+
+Pre-Plan in Advance
+While it at times cannot be pleasant, thinking about funeral plans in advance (if possible) of the death of your loved ones gives you an extremely large advantage in regards to funeral arrangements in a variety of ways:
+
+Expand Your Options &nbsp;&ndash; Planning in advance gives you the advantage with talking to multiple funeral homes, mortuaries, funeral agencies to get the best possible deal. &nbsp;Pre-planning allows you to comparison shop without pressure or time constraints. When you have time to make decisions, they are more likely to be informed.
+No Time Constraint &ndash; Planning in advance takes away any time constraints from your decision.&nbsp; Taking your time in any decision allows you to become more informed about the process.
+Remove Emotionial Distraction&nbsp;&ndash; Planning in advance helps you make a sound decision, without the distraction of grief being involved.&nbsp; The outburst of emotion can tend to cloud judgment.
+Scout Location &ndash; Selecting the cemetery plot for your loved is also best planned in advance. It ensures the family is in agreement on a resting site.&nbsp; It also gives the person a chance for some input in regards to his/her final resting place.
+
+&nbsp;
+Also please note, make absolutely sure any and all funeral details you have listed are put in writing. Send copies to your immediate family members, friends, attorney, or anyone else you entrust with the task of carrying out your intended funeral proceedings.&nbsp; Please do not put these funeral details in a safe deposit box or anywhere else as it might not be accessible to your intended party prior to the funeral.
+&nbsp;
+Funeral Home Tips
+Consumers shopping for funeral necessities are protected by the United States Federal Trade Commission's 'Funeral Rule'. &nbsp;These procedures ensure fair trade practices and protection for consumers.&nbsp; Please, for your protection, take a moment and review the FTC&rsquo;s Funeral Rule prior to your purchasing of any funeral services &amp; products.
+
+Here are some additional tips that can help in your dealings with a funeral home:
+
+Always negotiate &ndash; It is your right to negotiate a fair price.&nbsp; Oftentimes you will get a better price by bargaining.
+Familiarize yourself with the local funeral and burial laws.&nbsp; Funeral homes must specify any local law requirements in regards to services or expenses.
+Compare our General Price List to that of a few other funeral homes.
+Alert the funeral home to fact that you are a comparison shopper.&nbsp; Make sure to get a list of all expenses and fees they charge
+Do not let the funeral home coerce you into buying a one of the costly funeral packages.&nbsp; Purchase only the products and services that you want/need.
+If you end up purchasing a casket online, the funeral home must accept it.&nbsp; The FTC Funeral Rule requires the funeral home to accept any casket the family chooses, regardless of where it was bought.
+Do not reveal to the funeral home if insurance benefits are covering the funeral costs &ndash; with this information, they will often adjust their costs upwards to claim the entire amount.
+
+&nbsp;
+Purchasing Caskets or Keepsake Urns
+Overnight Caskets provides you with the customer&rsquo;s most powerful tool&hellip; options.&nbsp; Having multiple options when purchasing a casket or keepsake urn grants the customer the ability save money and keep control of funeral costs.
+The online purchasing of funeral necessities simplifies the process.&nbsp; It lets you shop in the comfort and privacy of your own environment.&nbsp; There are no pressures from salesmen or time constraints.&nbsp; Easily sit down with your family and close friends for their opinions.
+Overnight Caskets only sells caskets and keepsake urns.&nbsp; We are specialized to offer the most affordable prices.&nbsp; We do not pump up our prices with an extensive list of additional services or unsolicited extras. Our sole purpose is to offer the highest quality caskets and keepsake urns for discounted prices
+Purchasing a casket or keepsake urn from Overnight Caskets is a simple process:
+
+Browse our Catalog
+Select the keepsake urn or casket that suits your loved one's or your taste
+Compare our prices to a price you have received from a funeral home
+Our shopping cart allows for prompt purchase and delivery arrangement
+
+&nbsp;
+We have an extensive variety of caskets and keepsake urns for purchase.&nbsp; Regardless of your budget religion, or personal taste, Overnight Caskets has something that will suit you.&nbsp; We offer various steel thickness, 20-Gauge &amp; 18-Gauge, genuine hardwoods, and more.
+We proudly offer a 24 hour 7 day a week Customer Service Center.. We guarantee next-day delivery if order placed by certain cut-off time (12:00 noon). We accept various forms of payment.&nbsp; Our Customer Service Center is open at all times.&nbsp; We're available 24-hours a day at sales@overnightcasket.com, or call 800-323-1254.&nbsp; Live chat is also available at OvernightCaskets.com.
+        ' metadata={'page_id': 11, 'page_name': 'Funeral Arrangements '} as no existing record was found.
+Marked record with custom_id: 9_page_JxlprcNlru for deletion, page_name: Casket Companies
+Inserted new record for page_content='
+        Page ID: 12
+        Page Name: Casket Companies
+        Content: Why Choose Overnight Caskets?
+&nbsp;At Overnight Caskets, we pride ourselves in being a step above the competition. We have dedicated our efforts to improving and simplfying the customer experience. Our goal is to provide our customers with high quality products, timely shipping, excellent customer service, and the best bottom line prices.
+&nbsp;
+Communication:
+Most companies claim to be available 24 hours a day, only to be directed to voicemail.&nbsp; We, however, have a live customer service agent available at all hours.&nbsp; Not only are our phones always on.&nbsp; We also provide customers with the option to either email or LIVE CHAT with us at any time! Emails and voicemails are responded to within an hour.
+Customer Service:
+We understand the difficult circumstances surrounding funeral arrangements.&nbsp; We are aware of the seemingly insurmountable pressures bestowed upon you in times of mourning. We give our customers full control of the decision making.&nbsp; Our agents have been trained to be compassionate, understanding, and informative throughout the process.
+Shipping:
+We have teamed up with over 200 air and freight shipping companies to provide our customers with all possible shipping options.&nbsp; We offer FREE next day local shipping, Overnight air delivery anywhere in the United States, and ground shipping.&nbsp; Standard shipping quotes are available upon checkout.&nbsp; We offer LIVE quotes by simply clicking on the live chat or emailing us.&nbsp;
+Quality:
+We proudly offer an elegant selection of both caskets.&nbsp; We have partnered with several of the best manufacturers to ensure the highest quality to our customers. &nbsp;Please feel free to browse our catalog. &nbsp;We are here to help should you have any questions.
+Cemetery Headstones &amp; Grave Markers
+Visit our sister company, Signature Headstones, for great prices and selection on custom headstones and grave markers.&nbsp;
+        ' metadata={'page_id': 12, 'page_name': 'Casket Companies'} as no existing record was found.
+Marked record with custom_id: 10_page_Umfc57cacD for deletion, page_name: Wholesale
+Inserted new record for page_content='
+        Page ID: 13
+        Page Name: Wholesale
+        Content: 
+        ' metadata={'page_id': 13, 'page_name': 'Wholesale'} as no existing record was found.
+Marked record with custom_id: 11_page_pCIfqK83Iy for deletion, page_name: Testimonials
+Inserted new record for page_content='
+        Page ID: 14
+        Page Name: Testimonials
+        Content: At a time of extreme stress these folks were a welcome calm!&nbsp;
+Posted By: Robert Miller (San Luis Obispo, CA)
+This company was not only good for EVERY promise made, including shipping date, but they are a genuine pleasure to deal with. We were delighted with the quality of the coffin and price &hellip; unbeatable! Deservedly high praise for these folks.&nbsp;
+Excellent experience with Overnight Caskets
+Posted By: Ellen W. (Los Angeles, CA)
+Recently, a close family friend passed away suddenly. We found this company on Google. Their casket prices were considerably less than the funeral homes we visited. They also offered free shipping anywhere in California , so we tried them. The representative was kind and understanding. The beautiful casket arrived on time the next day. With funeral costs being so expensive, their prices came as a quite a relief to us. We highly appreciate and sincerely recommend this company. &nbsp;
+I ordered the Poplar Veneer Wood Casket, assembled, for my mother&rsquo;s funeral.
+Posted By: Jacquie W. (Grimes, CA)
+Jeffrey is the one who helped me. He gave me all the information I need and was extremely helpful. Thanks to him everything went smoothly.My family and friends were pleased with the casket &ndash; it was pretty and simple, just like mom would want.My experience with Overnight Caskets was totally positive. When I was worried it might be late &ndash; I was contacted and reassured that it would be delivered on time. It was. Thank you, Jeffrey, and Overnight Caskets for making the saddest day of my life a bit easier to get through. I am very grateful. &nbsp;
+Thank you for sending the casket on time and making the purchase so easy.
+Posted By: Crystal Brooks (Sherman, TX)
+The casket was beautiful. Thank you for sending what I purchased and on time. Everyone commented how beautiful it was. So happy for this. I would not hesitate to purchase from you again. Thanks for making it so easy, in such a rough time.
+My mother looked beautiful in her casket!! The service was wonderful and delivery was on time!&nbsp;
+Posted By: Marsha Travis (Phenix City, Alabama)
+I was very pleased with my purchase! The service was excellent and the salesman Mark was great!! Delivery was in a timely fashion and my mother looked beautiful in it!!
+My father recently passed away and I didn't have much money to buy a casket
+Posted By: Shana (Chicago, IL)
+My father recently passed away and I didn't have much money to buy a casket from funeral home in which ranged $1,500-$10,000; contacted @overnightcasket and spoke with Mark; he was very professional and easy to work with. He checked in with me throughout the whole process and was avail. at all times for any questions. I was overly pleased with the casket and how beautiful my father looked in it; although I was a little afraid of ordering a casket overnight. The casket came in right on time and delivered as promised NEXT DAY - I SUGGEST THIS COMPANY FOR ANY ONE LOOKING FOR A CASKET FOR THERE LOVED ONES. Do not order from funeral homes they will rip your pockets. Thank you Mark and OVERNIGHTCASKET.com
+        ' metadata={'page_id': 14, 'page_name': 'Testimonials'} as no existing record was found.
+Marked record with custom_id: 12_page_yT0UFNtjLi for deletion, page_name: Privacy Policy
+Inserted new record for page_content='
+        Page ID: 15
+        Page Name: Privacy Policy
+        Content: Privacy Policy
+This privacy notice discloses the privacy practices for www.overnightcaskets.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+
+1.&nbsp;&nbsp;&nbsp;&nbsp; What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. 
+2.&nbsp;&nbsp;&nbsp;&nbsp; What choices are available to you regarding the use of your data. 
+3.&nbsp;&nbsp;&nbsp;&nbsp; The security procedures in place to protect the misuse of your information. 
+4.&nbsp;&nbsp;&nbsp;&nbsp; How you can correct any inaccuracies in the information. 
+
+Information Collection, Use, and Sharing
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. 
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. 
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+Your Access to and Control Over Information
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
+
+See what data we have about you, if any. 
+Change/correct any data we have about you. 
+Have us delete any data we have about you. 
+Express any concern you have about our use of your data. 
+
+Security
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. 
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800-323-1254 or via email sales@overnightcaskets.com.
+&nbsp;
+&nbsp;
+        ' metadata={'page_id': 15, 'page_name': 'Privacy Policy'} as no existing record was found.
+Marked record with custom_id: 13_page_pOo4NVsqbl for deletion, page_name: Coupon Codes
+Inserted new record for page_content='
+        Page ID: 17
+        Page Name: Coupon Codes
+        Content: 
+        ' metadata={'page_id': 17, 'page_name': 'Coupon Codes'} as no existing record was found.
+Marked record with custom_id: 14_page_LujNPt1dvj for deletion, page_name: Headstone Purchasing Guidelines
+Inserted new record for page_content='
+        Page ID: 18
+        Page Name: Headstone Purchasing Guidelines
+        Content: HEADSTONE PURCHASING GUIDELINES&nbsp;
+&nbsp;
+CLICK HERE FOR A PRINTER-FRIENDLY CHECKLIST
+&nbsp;
+GENERAL QUESTIONS TO ASK
+
+What are the size requirements for the headstone?
+What style of headstone do you allow?
+What type of material is required?
+Is paint allowed on the headstone?
+Are Lawn Mower Proof Edges or Beveled Edges required?
+Is there any type of emblem required on the headstone?
+Are there any granite color restrictions?
+Is a plot number required on the stone?
+
+If so, what size is required and where on the stone can it be located?
+
+
+Is paperwork required?
+Is a proof required?
+Are pictures allowed on a headstone?&nbsp;
+
+Things to Keep in Mind&nbsp;
+Prior to purchasing a headstone from Overnight Caskets you need to be familiar with the requirements that your cemetery has in place. As well, you must comply with all of these requirements. The law requires that the cemetery allow you to purchase a headstone from the vendor of your choice, but it also makes provisions allowing the cemetery to have specific requirements that must be adhered to. Failure to follow the regulations of the cemetery can result in the stone delivery being refused. If the headstone is refused by the cemetery all charges incurred, including return shipping and possible remaking of the stone are the purchaser&acute;s responsibility. Overnight Caskets will not contact your cemetery directly.&nbsp;
+What are the size requirements for headstones? 
+&nbsp;There are normally a variety of sizes allowed by the cemetery. These can vary depending on the size of the plot purchased as well. You must purchase a headstone that matches the size and thickness requirements.&nbsp;
+What style of headstone do you allow?&nbsp;
+Overnight Caskets has a large selection of styles to choose from. Custom styles are available upon request.&nbsp;
+What type of material is required?&nbsp;
+Overnight Caskets sells both Granite and Bronze Headstones.&nbsp;
+Is paint allowed on the headstone?&nbsp;
+Overnight Caskets will paint the engraved areas of the stones we produce, unless you specify otherwise. The paint used on all headstones is special monument grade paint, specifically designed to be used on headstones. If the cemetery requires no paint then please indicate that requirement in the comments of your order. This will be done at no charge.&nbsp;
+Are Lawn Mower Proof Edges or Beveled Edges required?&nbsp;
+If required, please specify in the comments section of our order form. Additional charges apply.
+&nbsp;Is there any type of emblem required on the headstone?&nbsp;
+Overnight Caskets clip art collection contains thousands of emblems to choose from. Clip art will be added at no additional charge. Browse our Clip Art Collection and specify in the comments section of your order the name and location of the emblem that you have selected.
+Are there any granite color restrictions?&nbsp;
+Overnight Caskets has many different colors to choose from.&nbsp;
+Is a plot number required on the stone? If so, what size is required and where on the stone can it be located?&nbsp;
+Plot numbers are commonly located in the lower left or right hand corner of a headstone. If you need a plot number on your stone, please specify:&nbsp;
+Plot number&nbsp;
+Location on the stone (i.e. Lower Right corner)&nbsp;
+Size of plot number (i.e. 3&frasl;4&rdquo;, 5&frasl;8&rdquo;)&nbsp;
+&nbsp;Overnight Caskets will engrave the plot number for no additional charge.&nbsp;
+Is paperwork required?&nbsp;
+Overnight Caskets will not contact your cemetery directly. We are, however, happy to fill out any paperwork required by the cemetery. Once you receive the paperwork from the cemetery you can email it to Sales@overnightcaskets.com or fax it to (800) 323-1254. Once the paperwork is filled out, our office will provide a copy to you and to the cemetery, if required.
+Is a proof required? 
+Overnight Caskets online designer provides an immediate proof for your order. If a formal proof is required you must specify that when you place your order. There is no charge to provide a proof on a paid order.&nbsp;
+Are pictures allowed on a headstone?&nbsp;
+Ceramic photos are permanent kiln fired digital images. Any original photo or scanned image can be reproduced and permanently fired into a variety of oval, square and rectangular size ceramic tiles that will withstand the test of time. When we place your ceramic on your headstone we sand carve the granite to the shape and depth of the ceramic so it is inlayed flush with the surface. This process further protects your ceramic from the elements and acts as a prevention against vandalism.&nbsp;
+NOTE: Ceramic orders can take up to 8 weeks for production.
+&nbsp;
+        ' metadata={'page_id': 18, 'page_name': 'Headstone Purchasing Guidelines'} as no existing record was found.
+Marked record with custom_id: 15_page_f6RjIIXwXn for deletion, page_name: Photo Gallery
+Inserted new record for page_content='
+        Page ID: 19
+        Page Name: Photo Gallery
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  B-13 [c]    B-13 [s]    B-16 [c]    B-16 [s]    B-19 [c]    B-19 [s]    B-8 [c]    B-8 [s]    CD49_[s]    CD73_[s]    F-119 [c]    F-119 [s]    R-10 [c]    R-10 [s]    SD-106 [c]    R-23 [C]    R-23 [s]    SD-332 [c]    SD-332 [s]    SD-905 [s]    SD-905 [c]    SD-902 24x12    SD-902 24x12    as-002 [c]    as-002 [s] 
+        ' metadata={'page_id': 19, 'page_name': 'Photo Gallery'} as no existing record was found.
+Marked record with custom_id: 16_page_XwjNHSnOHw for deletion, page_name: Headstone Pet Design 
+Inserted new record for page_content='
+        Page ID: 20
+        Page Name: Headstone Pet Design 
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+ PD01 [s]   PD02 [c]    PD02 [s]    PD03 [s]    PD04 [s]    PD05 [s]    PD06_[s]    PD07_[s]    PD08_[s]    PD09_[c]    PD10_[c]    PD11_[c]    PD12_[s]    PD13_[s]    PD14_[s]    PD15_[s] 
+        ' metadata={'page_id': 20, 'page_name': 'Headstone Pet Design '} as no existing record was found.
+Marked record with custom_id: 17_page_OojyWUxBok for deletion, page_name: Headstone Border Design
+Inserted new record for page_content='
+        Page ID: 21
+        Page Name: Headstone Border Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  B-0 [c]    B-0 [s]    B-1 [c]    B-1 [s]    B-10 [c]    B-10 [s]    B-11 [c]    B-1 [s]    B-12 [c]    B-13 [s]    B-12 [s]    B-13 [c]    B-14 [c]    B-14 [s]    B-15 [c]    B-16 [s]    B-15 [s]    B-16 [c]    B-17 [c]    B-17 [s]    B-18 [c]    B-19 [s]    B-18 [s]    B-19 [c]    B-2 [c]    B-2 [s]    B-21 [c]    B-3 [s]    B-21 [s]    B-3 [c]    B-6 [c]    B-6 [s]    B-7 [c]    B-8 [s]    B-7 [s]    B-8 [c]    C-101 [c]    C-101 [s]    C-109 [c]    C-21 [s]    C-109 [s]    C-21 [c]    CD67_[s]    CD7_[s]    F-101 [c]    F-102 [s]    F-101 [s]    F-102 [c]    F-104 [s]    F-109 [c]    F-103 [c]    F-109 [s]    F-103 [s]    F-104 [c]    F-112 [s]    F-113 [s]    F-111 [c]    F-117 [c]    F-111 [s]    F-112 [c]    F-408 [c]    F-408 [s]    F-117 [s]    F-410 [c]    F-119 [c]    F-119 [s]    R-23 [c]    R-23 [s]    F-410 [s]    SD-110 [c]    HL-102 [c]    HL-102 [s]    SD-113 [c]    SD-113 [s]    SD-110 [s]    SD-114 [c]    SD-112 [c]    SD-112 [s]    SD-202 [c]    SD-202 [s]    SD-114 [s]    SD-203 [c]    SD-201 [c]    SD-201 [s]    SD-206 [c]    SD-206 [s]    SD-203 [s]    SD-208 [c]    SD-205 [c]    SD-205 [s]    SD-209 [s]    SD-212 [s]    SD-208 [s]    SD-214 [s]    SD-209 [c]    SD-214 [s]    SD-215 [s]    SD-329 [c]    as-002 [c]    SD-329 [s]    SD-215 [c]    as-002 [s]    SD-229 [s]    SD-215 [c]    as-002 [s]    as-003 [s]    as-003 [c] 
+        ' metadata={'page_id': 21, 'page_name': 'Headstone Border Design'} as no existing record was found.
+Marked record with custom_id: 18_page_cFw6YxAJIX for deletion, page_name: Headstone Catholic Design
+Inserted new record for page_content='
+        Page ID: 22
+        Page Name: Headstone Catholic Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  R-10[c]    R-10 [s]    R-24 [c]    R-24 [s]    R-36[c]    R-36[s]    R-4[c]    R-4[s]    R-51[c]    R-6[c]    R-6[s]    SD-208[c]    SD-208[s]    SD-302[c]    SD-302[s]    SD-321[c]    SD-321[s]    SD-325[c]    as-013[c]    SD-325[s]    SD-327[c]    SD-327[s]    SD-330[c]    SD-330[s]    as-016[c]    as-013[s]    as-014[c]    as-014[s]    as-015[c]    as-015[s]    as-019[c]    as-016[s]    as-017[c]    as-017[s]    as-018[c]    as-018[s]    as-025[c]    as-019[s]    as-023[c]    as-023[s]    as-024[c]    as-024[s]    as-025[s] 
+        ' metadata={'page_id': 22, 'page_name': 'Headstone Catholic Design'} as no existing record was found.
+Marked record with custom_id: 19_page_rQPOTTRZil for deletion, page_name: Headstone Children Design
+Inserted new record for page_content='
+        Page ID: 23
+        Page Name: Headstone Children Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  C-436[c]    C-436[s]    CD13_[s]    CD15_[s]    CD23_[s]    CD27_[s]    CD28_[s]    CD35_[s]    CD37_[s]    CD39_[s]    CD41_[s]    CD42_[s]    CD46_[s]    CD47_[s]    CD5_[s]    R-32 [c]    R-32 [s]    R-39 [c]    R-39 [s]    SD-603 [c]    SD-600 [s]    R-4 [c]    R-4 [s]    SD-600 [c]    SD-603 [s]    SD-608 [s]    SD-606 [s]    SD-605 [c]    SD-605 [s]    SD-606 [c]    SD-609 [c]    SD-611 [s]    SD-611 [c]    SD-609 [s]    SD-610 [c]    SD-610 [s]    SD-612 [c]    as-005 [s]    as-005 [c]    SD-612 [s]    as-004 [c]    as-004 [s]    as-006 [s]    as-008 [s]    as-006 [c]    as-008 [c]    as-007 [c]    as-007 [s]    as-009 [s]    as-009 [c] 
+        ' metadata={'page_id': 23, 'page_name': 'Headstone Children Design'} as no existing record was found.
+Marked record with custom_id: 20_page_lUttQItP1V for deletion, page_name: Headstone Cross Design
+Inserted new record for page_content='
+        Page ID: 24
+        Page Name: Headstone Cross Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  C-46[s]    CD10_[s]    F-111 [c]    F-111 [s]    F-112 [c]    F-112 [s]    F-408 [c]    R-31 [s]    F-408 [s]    R-10 [c]    R-10 [s]    R-31 [c]    R-9 [c]    SD-302 [s]    R-9 [s]    SD-300 [c]    SD-300 [s]    SD-302 [c]    SD-304 [c]    SD-309 [c]    SD-304 [s]    SD-307 [s]    SD-308 [c]    SD-308 [s]    SD-309 [s]    SD-319 [c]    SD-312 [c]    SD-312 [s]    SD-318 [c]    SD-318 [s]    SD-319 [s]    SD-330 [c]    SD-322 [c]    SD-322 [s]    SD-329 [c]    SD-329 [s]    SD-330 [s]    SD-902 [c]    SD-331 [c]    SD-331 [s]    SD-332 [c]    SD-332 [s]    SD-902 [s]    V3 [c]    SD-905 [c]    SD-905 [s]    SD-906 [c]    SD-906 [s]    V3 [s]    as-015 [s]    as-012 [c]    as-012 [s]    as-021 [c]    as-015 [c]    as-021 [s]    as-022 [c]    as-022 [s] 
+        ' metadata={'page_id': 24, 'page_name': 'Headstone Cross Design'} as no existing record was found.
+Marked record with custom_id: 21_page_3siLJn50g0 for deletion, page_name: Headstone Cultural Design
+Inserted new record for page_content='
+        Page ID: 25
+        Page Name: Headstone Cultural Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  B-12 [c]    B-12 [s]    Dragon [c]    Dragon [s]    H-102 [c]    H-102 [s]    H-103 [c]    SD-120 [c]    H-103 [s]    H-110 [c]    H-110 [s]    SD-120 [s]    SD-204 [c]    SD-204 [s] 
+        ' metadata={'page_id': 25, 'page_name': 'Headstone Cultural Design'} as no existing record was found.
+Marked record with custom_id: 22_page_GszMEUg8na for deletion, page_name: Headstone Custom Design
+Inserted new record for page_content='
+        Page ID: 26
+        Page Name: Headstone Custom Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  CD10_[s]    CD11_[s]    CD12_[s]    CD13_[s]    CD14_[s]    CD15_[s]    CD16_[s]    CD20_[s]    CD17_[s]    CD18_[s]    CD19_[s]    CD19_[s]    CD1 [s]    CD21_[s]    CD24 [s]    CD26_[s]    CD22_[c]    CD23_[s]    CD25_[s]    CD27_[s]    CD33_[s]    CD35_[s]    CD2 [s]    CD32_[s]    CD34_[c] 
+  CD36_[s]    CD39_[s]    CD40_[s]    CD37_[s]    CD38_[c]    CD3 [s]    CD41_[s]    CD45_[s]    CD46_[s]    CD42_[s]    CD43_[s]    CD44_[c]    CD47_[s]    CD50_[s]    CD51_[s]    CD48_[s]    CD49_[s]    CD4_[s]    CD53_[s]    CD55_[s]    CD56_[s]    CD54_[s]    CD55_[c]    CD52_[s]    CD57_[s]    CD59_[s]    CD5_[s]    CD58_[c]    CD58_[s]    CD34_[c]    CD60_[s]    CD62_[s]    CD63_[c]    CD61_[c]    CD61_[s]    CD60_[c]    CD64_[s]    CD66_[s]    CD67_[s]    CD65_[c]    CD66_[c]    CD64F_[s]    CD69_[c]    CD71_[c]    CD72_[c]    CD72_[s]    CD6_[s]    CD70_[s]    CD68_[s]    CD74_[s]    CD77_[s]    CD78_[s]    CD75_[s]    CD76_[s]    CD73_[s]    CD7_[s]    CD82_[s]    CD8_[s]    CD8_[s]    CD80_[s]    CD81_[s]    CD79_[s]    CD211_[s]    CD9_[s] 
+
+        ' metadata={'page_id': 26, 'page_name': 'Headstone Custom Design'} as no existing record was found.
+Marked record with custom_id: 23_page_4weRYLDZqI for deletion, page_name: Headstone Floral Design
+Inserted new record for page_content='
+        Page ID: 27
+        Page Name: Headstone Floral Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  B-1 [c]    B-1 [s]    B-10 [c]    B-10 [s]    B-11 [c]    B-11 [s]    B-13 [c]    B-15 [s]    B-13 [s]    B-14 [c]    B-14 [s]    B-15 [s]    B-16 [c]    B-18 [s]    B-16 [s]    B-17 [c]    B-17 [s]    B-18 [s]    B-19 [c]    B-8 [s]    B-19 [s]    C-21 [c]    C-21 [s]    B-8 [c]    C-21 [c]    C-101 [s]    C-109 [c]    C-109 [s]    C-21 [c]    CD34_[c] 
+  CD36_[s]    CD45_[s]    F-106 [c]    F-109 [c]    F-106 [s]    F-107 [c]    F-107 [s]    F-108 [s]    F-109 [s]    F-113 [s]    F-111 [c]    F-111 [s]    F-112 [c]    F-112 [s]    F-119 [s]    HL-102 [c]    F-119 [s]    F-224 [c]    F-408 [c]    F-408 [s]    HL-102 [s]    SD-101 [c]    R-14 [c]    R-14 [s]    SD-100 [c]    SD-101 [s]    SD-104 [c]    SD-102 [c]    SD-102 [s]    SD-103 [c]    SD-103 [s] 
+  SD-105 [c]    SD-110 [s]    SD-105 [s]    SD-108 [c]    SD-108 [s]    SD-110 [s]    SD-112 [c]    SD-114 [s]    SD-112 [s]    SD-113 [c]    SD-113 [s]    SD-114 [s]    SD-116 [c]    SD-119 [s]    SD-116 [s]    SD-118 [c]    SD-118 [s]    SD-119 [c]    SD-208 [c]    SD-210 [s]    SD-210 [c]    SD-208 [s]    SD-209 [c]    SD-209 [s]    SD-302 [c]    SD-304 [s]    SD-308 [c]    SD-307 [s]    SD-302 [s]    SD-304 [c] 
+  as-010 [c]    as-012 [s]    as-022 [c]    as-010 [s]    as-003 [s]    as-012 [c]    as-022 [s] 
+
+        ' metadata={'page_id': 27, 'page_name': 'Headstone Floral Design'} as no existing record was found.
+Marked record with custom_id: 24_page_KSNEwJQShr for deletion, page_name: Headstone Jewish Design
+Inserted new record for page_content='
+        Page ID: 28
+        Page Name: Headstone Jewish Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  J-01 [c]    J-01 [s]    J-02 [c]    J-02 [s]    J-03 [c]    J-03 [s]    J-04 [c]    J-04 [s]    J-05 [c]    J-05 [s]    J-06 [c]    J-06 [s]    SD-301 [c]    SD-301 [s]    SD-315 [c]    SD-315 [s] 
+        ' metadata={'page_id': 28, 'page_name': 'Headstone Jewish Design'} as no existing record was found.
+Marked record with custom_id: 25_page_oTXhdyd7ru for deletion, page_name: Headstone Mormon Design
+Inserted new record for page_content='
+        Page ID: 29
+        Page Name: Headstone Mormon Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  CD61_[c]    CD61_[s]    F-415 [c]    F-415 [s]    R-26 [c]    R-26 [s] 
+        ' metadata={'page_id': 29, 'page_name': 'Headstone Mormon Design'} as no existing record was found.
+Marked record with custom_id: 26_page_69by2UgAt0 for deletion, page_name: Headstone Musical Design
+Inserted new record for page_content='
+        Page ID: 30
+        Page Name: Headstone Musical Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  CD62_[s]    SD-205 [c]    SD-205 [s]    SD-206 [c]    SD-206 [s]    as-011 [c]    as-011 [s] 
+        ' metadata={'page_id': 30, 'page_name': 'Headstone Musical Design'} as no existing record was found.
+Marked record with custom_id: 27_page_AUGGVtqvUm for deletion, page_name: Headstone Transportation Design
+Inserted new record for page_content='
+        Page ID: 31
+        Page Name: Headstone Transportation Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  CD74_[s]    CD79_[s]    SD-611 [c]    SD-611 [s]    SD-612 [c]    SD-612 [s]    T-4 [c]    T-4 [s]    T-3 [c]    T-3 [s] 
+        ' metadata={'page_id': 31, 'page_name': 'Headstone Transportation Design'} as no existing record was found.
+Marked record with custom_id: 28_page_k6ePTgFeeC for deletion, page_name: Headstone Religous Design
+Inserted new record for page_content='
+        Page ID: 32
+        Page Name: Headstone Religous Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+ B-13 [c]   B-13 [s]    B-16 [c]    B-16 [s]    C-436 [c]    C-436[s]    C-46 [c]    C-46 [s]    CD11 [s]    CD33 [s]    F-111 [c]    F-119 [s]    F-112 [c]    F-112 [s]    F-119 [s]    F-119 [C]    F-118 [c]    F-118 [s]    F-408 [c]    F-408 [s]    F-415 [c]    F-415 [s] 
+  F-410 [c]    F-410 [s]    J-01 [c]    J-01 [s]    J-03 [c]    J-02 [s]    J-02 [c]    J-04 [c]    J-04 [s]    J-03 [s]    J-06 [c]    J-05 [c]    J-05 [s]    R-10 [c]    R-10 [s]    R-23 [s]    R-2 [s]    R-2 [c]    R-24 [c]    R-24 [s]    R-31 [s]    R-31 [c]    R-26 [c]    R-36 [c]    R-36 [s]    R-6 [c]    R-51 [c]    R-4 [c]    R-6 [s]    R-9 [c]    SD-208 [c]    SD-106 [s]    R-9 [s]    SD-208 [s]    SD-214 [c]    SD-301 [c]    SD-300 [s]    SD-214 [c]    SD-208 [s]    SD-214 [c]    SD-301 [c]    SD-300 [s]    SD-214 [c]    SD-300 [s]    R-4 [c]    SD-304 [s]    SD-301 [s]    SD-307 [s]    SD-304 [c]    SD-302 [s]    SD-302 [c]    SD-312 [c]    SD-312 [s]    SD-309 [s]    SD-308 [s]    SD-318 [c]    SD-315 [c]    SD-318 [s]    SD-317 [s]    SD-315 [s]    SD-322 [s]    SD-319 [c]    SD-321 [c]    SD-329 [c]    SD-325 [c]    SD-329 [s]    SD-327 [s]    SD-325 [s]    SD-327 [c]    SD-332 [c]    SD-330 [c]    SD-332 [s]    SD-331 [s]    SD-330 [s]    SD-906 [c]    SD-902 [c]    SD-906 [s]    SD-905 [c]    SD-902 [s]    SD-905 [s]    as-012 [s]    V-3 [c]    as-012 [c]    V-88 [s]    V-3 [s]    V-88 [c]    as-015 [s]    as-013 [s]    as-014 [s]    as-015 [c]    as-013 [c]    as-014 [c]    as-018 [s]    as-018 [c]    as-017 [s]    as-017 [c]    as-019 [c]    as-021 [c]    as-021 [s]    as-020 [s]    as-024 [s]    as-024 [c]    as-023 [s]    as-023 [c]    as-025 [c]    as-025 [s] 
+
+        ' metadata={'page_id': 32, 'page_name': 'Headstone Religous Design'} as no existing record was found.
+Marked record with custom_id: 29_page_cRPVyXlZey for deletion, page_name: Headstone Scenic Design
+Inserted new record for page_content='
+        Page ID: 33
+        Page Name: Headstone Scenic Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+ CD12 [s]   CD17 [s]    CD1 [s]    CD38 [c]    CD3 [s]    CD40 [s]    CD43 [s]    CD54 [s]    CD55 [s]    CD78 [s]    CD55 [c]    CD80 [s]    CD81 [s]    S-1 [c]    S-3 [c]    S-3 [s]    SD-412 [s]    SD-413 [s]    SD-211 [s]    SD-413 [s]    SD-414 [s]    F-112 [s]    SD-415 [s]    SD-415 [c]    SD-414 [s] 
+        ' metadata={'page_id': 33, 'page_name': 'Headstone Scenic Design'} as no existing record was found.
+Marked record with custom_id: 30_page_QQlv0dcJJN for deletion, page_name: Headstone Scroll Design
+Inserted new record for page_content='
+        Page ID: 34
+        Page Name: Headstone Scroll Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+ B-10 [c]   B-10 [s]    B-7 [c]    CD38 [c]    CD63 [c]    CD65 [c]    CD43 [s]    F-108 [s]    F-113 [s]    F-224 [c]    F-415 [s]    SD-500 [s]    SD-500 [c]    as-021 [c]    as-021 [s] 
+        ' metadata={'page_id': 34, 'page_name': 'Headstone Scroll Design'} as no existing record was found.
+Marked record with custom_id: 31_page_jbYIhHxGlF for deletion, page_name: Headstone Sport Design
+Inserted new record for page_content='
+        Page ID: 35
+        Page Name: Headstone Sport Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+ CD14 [s]   CD23 [s]    CD28 [s]    CD36 [s]    CD6 [s]    CD74 [s]    CD75 [s]    CD76 [s]    CD77 [s]    CD78 [s]    CD79 [s]    CD80 [s]    CD82 [s]    SD-414 [s]    SD-608 [s]    SD-603 [s]    SD-603 [c]    SD-611 [s]    SD-611 [c] 
+        ' metadata={'page_id': 35, 'page_name': 'Headstone Sport Design'} as no existing record was found.
+Marked record with custom_id: 32_page_eK9Q9C1ka6 for deletion, page_name: Headstone Tropical Design
+Inserted new record for page_content='
+        Page ID: 36
+        Page Name: Headstone Tropical Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  C-21 [c]    C-21 [s]    H-110 [c]    H-110 [s]    K-3 [c]    K-3 [s]    R-14 [c]    R-14 [s]    T-1 [c]    T-1 [s]    T-10 [c]    T-10 [s]    T-11 [c]    T-11 [s]    T-12 [c]    T-12 [s]    T-13 [c]    T-13 [s]    T-2 [c]    T-3 [s]    T-2 [s]    T-4 [s]    T-3 [c]    T-4 [s]    T-5 [c]    T-7 [c]    T-6 [c]    T-6 [s]    T-5 [s]    T-7 [s]    T-8 [c]    T-8 [s]    T-9 [s]    T-9 [c] 
+        ' metadata={'page_id': 36, 'page_name': 'Headstone Tropical Design'} as no existing record was found.
+Marked record with custom_id: 33_page_tnCwjO6LvV for deletion, page_name: Headstone Western Design
+Inserted new record for page_content='
+        Page ID: 37
+        Page Name: Headstone Western Design
+        Content: 
+Headstone Design Idea Gallery
+We have provided an extensive gallery of headstone designs to help you find just the right image to represent your loved one. When you have selected a design, make a note of the name and let us know what the template number is when you place your order.
+ Book Border Catholic Children Cross Cultural Custom Floral Jewish Mormon Musical Pet Religious Scenic Scroll Sport Transportation Tropical Western
+  CD53_[s]    CD57_[c]    CD57_[s]    CD58_[c]    CD58_[s]    CD59_[s]    SD-204 [s]    SD-202 [c]    SD-202 [s]    SD-203 [c]    SD-203 [s]    SD-204 [c] 
+        ' metadata={'page_id': 37, 'page_name': 'Headstone Western Design'} as no existing record was found.
+Marked record with custom_id: 34_page_t8NpVDJodg for deletion, page_name: Animal Clip Art
+Inserted new record for page_content='
+        Page ID: 38
+        Page Name: Animal Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  ANML001    ANML003    ANML004    ANML005    ANML010    FRM002    MEN010    FRM003    MISC001    FRM004    MISC002    RNCH005    WILD003    WILD001    WILD004    WILD002    WILD006    WILD005    WILD010    WILD008    WILD007    WILD009    WILD013    WILD011    WILD018    WILD014    WILD015    WILD019 
+        ' metadata={'page_id': 38, 'page_name': 'Animal Clip Art'} as no existing record was found.
+Marked record with custom_id: 35_page_9z1IQ2jJNg for deletion, page_name: Aquatic Clip Art
+Inserted new record for page_content='
+        Page ID: 39
+        Page Name: Aquatic Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+
+        ' metadata={'page_id': 39, 'page_name': 'Aquatic Clip Art'} as no existing record was found.
+Marked record with custom_id: 36_page_vFbBlXyl35 for deletion, page_name: Automobile Clip Art
+Inserted new record for page_content='
+        Page ID: 40
+        Page Name: Automobile Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  CAR001    CAR002    CAR003    CAR004    CAR005    CAR006    TRUCK004    TRUCK003    CAR007    CAR008    TRUCK001    TRUCK002    TRUCK009    TRUCK007    TRUCK006    TRUCK008    TRUCK005 
+        ' metadata={'page_id': 40, 'page_name': 'Automobile Clip Art'} as no existing record was found.
+Marked record with custom_id: 37_page_e8jklF38IZ for deletion, page_name: Banner Clip Art
+Inserted new record for page_content='
+        Page ID: 41
+        Page Name: Banner Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  ANGL029    BANN001    BANN002    BANN003    BANN004    BANN005    BANN006 
+        ' metadata={'page_id': 41, 'page_name': 'Banner Clip Art'} as no existing record was found.
+Marked record with custom_id: 38_page_MQCu6p2LNG for deletion, page_name: Bible Clip Art
+Inserted new record for page_content='
+        Page ID: 42
+        Page Name: Bible Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  BIBLE001    BIBLE002    BIBLE003    BIBLE004    BIBLE005    JESUS007 
+        ' metadata={'page_id': 42, 'page_name': 'Bible Clip Art'} as no existing record was found.
+Marked record with custom_id: 39_page_JRnkOsarKh for deletion, page_name: Bird Clip Art
+Inserted new record for page_content='
+        Page ID: 43
+        Page Name: Bird Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  BRD001    BRD002    BRD003    BRD004    BRD005    BRD006    BRD009    BRD012    BRD010    BRD011    BRD008    BRD014    BRD013    BRD017    BRD018    BRD015    BRD019    BRD020    BRD016    BRD021    BRD025    BRD023    BRD024    BRD026    BRD022    BRD028    BRD029    BRD027    BRD030    BRD033    BRD031    CRSS015    BRD032    BRD034    DOV010    DOV011    DOV012    DOV013    EGL001    DOV014    DOV015    EGL003    EGL007    EGL006    EGL005    EGL004    EGL002    EGL010    EGL011    EGL009 
+        ' metadata={'page_id': 43, 'page_name': 'Bird Clip Art'} as no existing record was found.
+Marked record with custom_id: 40_page_tpoYUnvXf0 for deletion, page_name: Border Clip Art
+Inserted new record for page_content='
+        Page ID: 44
+        Page Name: Border Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  BRDR001    BRDR002    BRDR004    BRDR005    BRDR006    BRDR007    BRDR008    VINE001    BRDR009    BRDR010    ROSRY002    ROSRY006    WEDD011    VINE002 
+        ' metadata={'page_id': 44, 'page_name': 'Border Clip Art'} as no existing record was found.
+Marked record with custom_id: 41_page_gNUeTlDdTj for deletion, page_name: Building Clip Art
+Inserted new record for page_content='
+        Page ID: 45
+        Page Name: Building Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  BUILD001    BUILD002    BUILD003    BUILD004    BUILD005    BUILD006    BUILD011    BUILD007    BUILD010    BUILD009    BUILD008    BUILD012    BUILD013 
+        ' metadata={'page_id': 45, 'page_name': 'Building Clip Art'} as no existing record was found.
+Marked record with custom_id: 42_page_tRl2YFmKpL for deletion, page_name: Cat Clip Art
+Inserted new record for page_content='
+        Page ID: 46
+        Page Name: Cat Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  CAT001    CAT001(Cat_file)    CAT002    CAT002(Cat_file)    CAT003    CAT004    CAT007    CAT005    CAT009    CAT006    CAT008    CAT010    CAT011    CAT012    CAT014    CAT013    CAT015    CAT016 
+        ' metadata={'page_id': 46, 'page_name': 'Cat Clip Art'} as no existing record was found.
+Marked record with custom_id: 43_page_tWzbYRvYez for deletion, page_name: Catholic Clip Art
+Inserted new record for page_content='
+        Page ID: 47
+        Page Name: Catholic Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  CRSS004    CRSS006    CRSS007    CRSS018    CRSS022    CRSS031    JESUS001    CRSS045    JESUS003    JESUS005    JESUS006    JESUS007    JESUS010    JESUS008    JESUS011    JESUS012    MARY001    MARY002    MARY003    MARY004    MARY005    MARY009    MARY006    MARY007    MARY010    MARY011    MARY012    MISC006    MISC008    MISC005    OLD_CRSS045    R-121    R-130    RELEMB016    RELEMB025    ROSRY001    ROSRY002    RELEMB015    ROSRY004    ROSRY006    ST001    ROSRY002    ROSRY005    ST004    ST005    ST006    ST008    ST002    ST007    ST010    ST009 
+        ' metadata={'page_id': 47, 'page_name': 'Catholic Clip Art'} as no existing record was found.
+Marked record with custom_id: 44_page_uFTPA3yueL for deletion, page_name: Children Clip Art
+Inserted new record for page_content='
+        Page ID: 48
+        Page Name: Children Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  CHLD001    CHLD002    CHLD003    CHLD004    CHLD005    PEOPOTH005    TOY001    TOY002    TOY003    TOY004    TOY006    TOY005 
+        ' metadata={'page_id': 48, 'page_name': 'Children Clip Art'} as no existing record was found.
+Marked record with custom_id: 45_page_7Gs5SKwhw1 for deletion, page_name: Christian Clip Art
+Inserted new record for page_content='
+        Page ID: 49
+        Page Name: Christian Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+  BIBLE001    BIBLE003    BIBLE004    BIBLE005    RELEMB015    RELEMB025 
+        ' metadata={'page_id': 49, 'page_name': 'Christian Clip Art'} as no existing record was found.
+Marked record with custom_id: 46_page_k8Zo8gKbgH for deletion, page_name: Cross Clip Art
+Inserted new record for page_content='
+        Page ID: 50
+        Page Name: Cross Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+ C-46 [c]   CRSS001   PD02 [c]   CRSS002   CRSS003   CRSS004   CRSS005   CRSS006   CRSS007   CRSS008   CRSS009   CRSS010   CRSS011   CRSS012   CRSS013   CRSS014   CRSS015   CRSS016   CRSS017   CRSS018   CRSS019   CRSS020   CRSS021   CRSS022   CRSS023   CRSS024   CRSS025.jpg   CRSS026   CRSS027   CRSS028   CRSS029   CRSS030   CRSS031   CRSS032   CRSS033   CRSS034   CRSS035   CRSS036   CRSS037   CRSS038   CRSS039   CRSS040   CRSS041   CRSS042   CRSS045   CRSS052   CRSS062   CRSS068   E-50   OLD_CRSS045 
+        ' metadata={'page_id': 50, 'page_name': 'Cross Clip Art'} as no existing record was found.
+Marked record with custom_id: 47_page_xYAVBfnKbe for deletion, page_name: Dog Clip Art
+Inserted new record for page_content='
+        Page ID: 51
+        Page Name: Dog Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+ DOG001   DOG002   DOG003   DOG004   DOG005   DOG006   DOG007   DOG008   DOG009   DOG010   DOG011   DOG012   DOG013   DOG014   DOG015   DOG016   DOG017   DOG018   DOG020   DOG021   DOG022   DOG023   DOG024   DOG025   DOG026   DOG027 
+        ' metadata={'page_id': 51, 'page_name': 'Dog Clip Art'} as no existing record was found.
+Marked record with custom_id: 48_page_KyS1XoToXf for deletion, page_name: Dove Clip Art
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/.python3.10/lib/python3.10/site-packages/langchain_community/vectorstores/pgvector.py:487: LangChainPendingDeprecationWarning: Please use JSONB instead of JSON for metadata. This change will allow for more efficient querying that involves filtering based on metadata. Please note that filtering operators have been changed when using JSONB metadata to be prefixed with a $ sign to avoid name collisions with columns. If you're using an existing database, you will need to create a db migration for your metadata column to be JSONB and update your queries to use the new operators. 
+  store = cls(
+Inserted new record for page_content='
+        Page ID: 52
+        Page Name: Dove Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+ DOV001   DOV002   DOV003   DOV006   DOV007   DOV008   DOV009   DOV010   DOV011   DOV012   DOV013   DOV014   DOV015   WEDD010   WEDD011 
+        ' metadata={'page_id': 52, 'page_name': 'Dove Clip Art'} as no existing record was found.
+Marked record with custom_id: 49_page_xn6e2Yz0tw for deletion, page_name: Eagle Clip Art
+Inserted new record for page_content='
+        Page ID: 53
+        Page Name: Eagle Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+ EGL001   EGL002   EGL003   EGL004   EGL005   EGL006   EGL007   EGL008   EGL009   EGL011   ENGL009   SYMB010 
+        ' metadata={'page_id': 53, 'page_name': 'Eagle Clip Art'} as no existing record was found.
+Marked record with custom_id: 50_page_iLfeCKDqqj for deletion, page_name: Emblems Belief Clip Art
+Inserted new record for page_content='
+        Page ID: 54
+        Page Name: Emblems Belief Clip Art
+        Content: 
+Clip Art Gallery
+We have provided an extensive gallery of clip art to help you find just the right image to represent your loved one. When you have selected an image, make a note of the name and let us know what the template number is when you place your order.
+ Angel Animal Aquatic Automobile Banner Bible Bird Border Building Cat Catholic Children Christian Cross Dog Dove Eagle Emblems-of-Belief Flag Floral Food Heart Home Horse Insect Jesus Jewish Landscape Man Marriage Mary Mormon Music Nature Object Plant Rosary Rose Saint Seals-and-Badges Sports Symbol Tree Vine Western Woman
+ VA-01-Latin-(Christian)-Cross   VA-02 Buddhist   VA-03-Judaism-(Star-iof-David)   VA-04 Presbyterian Cross   VA-05 Russian Orthodox Cross   VA-06 Lutheran Cross   VA-07 Episcopal Cross   VA-08 Unitarian   VA-09 United Methodist   VA-10 Aaronic Order Church   VA-11-Mormon-(Angel-Moroni)   VA-12 Native American Church of North America   VA-13 Serbian Orthodox   VA-14 Greek Cross   VA-15 Bahai (9-Pointed-Star)   VA-16 Atheist   VA-17-Muslim-(Crescent-and-Star)   VA-18a Hindu   VA-18b Hindu   VA-20 Community of Christ   VA-21-Sufism-Reoriented   VA-22 Tenrikyo Church   VA-19 Konko-Kyo Faith   VA-23 Seicho-No-Ie   VA-24 The Church of World Messianity   VA-25 United Church of Religious Science   VA-26 Christian Reformed Church   VA-27 United Moravian Church   VA-28 Eckankar   VA-29 Christian Church   VA-30-Christian-&amp;-Missionary-Alliance   VA-31 United Church of Christ   VA-32 Humanist Emblem of Spirit   VA-33-Presbyterian-Church-(USA)   VA-34 Izumo Taishakyo Mission of Hawaii   VA-35-Soka-Gakkai-International-(USA)   VA-36 Sikh (Khanda)   VA-37-Wicca-(Pentacle)   VA-38 Lutheran Church Missouri Synod   VA-39 New Apostolic   VA-40 Seventh Day Adventist Church   VA-41 Celtic Cross   VA-42 Armenian Cross   VA-43 Farohar   VA-44 Messianic Jewish   VA-45 Kohen Hands   VA-46-Catholic-Celtic-Cross   VA-47-First-Church-of-Christ,-Scientist-(Cross-&amp;-Crown)   VA-48 Medicine Wheel   VA-49 Infinity   VA-51 Luther Rose   VA-52 Landing Eagle   VA-53 Four Directions   VA-54 Church of Nazarene   VA-55 Hammer of Thor   VA-56 Unification Church   VA-57 Sandhill Crane   VA-58 Church of God   VA-59 Pomegranate   VA-60 Messianic   VA-61 Shinto   VA-62-Sacred-Heart 
+        ' metadata={'page_id': 54, 'page_name': 'Emblems Belief Clip Art'} as no existing record was found.
+All operations completed successfully.
+Script finished at: 2024-11-11 13:15:14

@@ -1,0 +1,704 @@
+{
+    "success_code": true,
+    "response": [
+        {
+            "sku": "Columbia Mahogany",
+            "qty_available": 5,
+            "qty_on_hand": 5,
+            "wms_datetime": "2024-09-11T08:18:53+00:00",
+            "warehouses": {
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 0,
+                    "qty_on_hand": 0,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 0,
+                    "qty_on_hand": 0,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 5,
+                    "qty_on_hand": 5,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Duggan Mahogany",
+            "qty_available": 13,
+            "qty_on_hand": 13,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 4,
+                    "qty_on_hand": 4,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 9,
+                    "qty_on_hand": 9,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 0,
+                    "qty_on_hand": 0,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                },
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": 0,
+                    "qty_on_hand": 0,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Frank Silver 30.5",
+            "qty_available": 14,
+            "qty_on_hand": 14,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 5,
+                    "qty_on_hand": 5,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 5,
+                    "qty_on_hand": 5,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 4,
+                    "qty_on_hand": 4,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Frank White 27.5",
+            "qty_available": 23,
+            "qty_on_hand": 24,
+            "wms_datetime": "2024-09-11T08:18:31+00:00",
+            "warehouses": {
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 7,
+                    "qty_on_hand": 7,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 8,
+                    "qty_on_hand": 8,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 8,
+                    "qty_on_hand": 9,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Frank White 30.5",
+            "qty_available": 13,
+            "qty_on_hand": 13,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 5,
+                    "qty_on_hand": 5,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 2,
+                    "qty_on_hand": 2,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 6,
+                    "qty_on_hand": 6,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Heavenly Mother",
+            "qty_available": 20,
+            "qty_on_hand": 21,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 6,
+                    "qty_on_hand": 7,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 4,
+                    "qty_on_hand": 4,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 10,
+                    "qty_on_hand": 10,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Imperial Burgundy",
+            "qty_available": 42,
+            "qty_on_hand": 42,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 12,
+                    "qty_on_hand": 12,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 16,
+                    "qty_on_hand": 16,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 14,
+                    "qty_on_hand": 14,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Hamilton Veneer",
+            "qty_available": 4,
+            "qty_on_hand": 5,
+            "wms_datetime": "2024-09-11T08:18:53+00:00",
+            "warehouses": {
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 0,
+                    "qty_on_hand": 0,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 3,
+                    "qty_on_hand": 3,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 1,
+                    "qty_on_hand": 2,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:31+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Legacy Blue",
+            "qty_available": 18,
+            "qty_on_hand": 18,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 10,
+                    "qty_on_hand": 10,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 0,
+                    "qty_on_hand": 0,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 8,
+                    "qty_on_hand": 8,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:31+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Legacy Bronze",
+            "qty_available": 38,
+            "qty_on_hand": 39,
+            "wms_datetime": "2024-09-11T08:18:31+00:00",
+            "warehouses": {
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 16,
+                    "qty_on_hand": 16,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:31+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 8,
+                    "qty_on_hand": 8,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 14,
+                    "qty_on_hand": 15,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                }
+            }
+        },
+        {
+            "sku": "In God's Care",
+            "qty_available": 48,
+            "qty_on_hand": 49,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 20,
+                    "qty_on_hand": 21,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 12,
+                    "qty_on_hand": 12,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 16,
+                    "qty_on_hand": 16,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:31+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Last Supper White",
+            "qty_available": 30,
+            "qty_on_hand": 31,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 12,
+                    "qty_on_hand": 12,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 4,
+                    "qty_on_hand": 5,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 14,
+                    "qty_on_hand": 14,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:31+00:00"
+                }
+            }
+        },
+        {
+            "sku": "OXFORD SOLID POPLAR WOOD",
+            "qty_available": 246,
+            "qty_on_hand": 251,
+            "wms_datetime": "2024-09-11T08:18:58+00:00",
+            "warehouses": {
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": 22,
+                    "qty_on_hand": 22,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                },
+                "74711371": {
+                    "warehouse": "Tacoma 3PL",
+                    "qty_available": 20,
+                    "qty_on_hand": 20,
+                    "wms_datetime": "2024-09-11T08:18:56+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:56+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 88,
+                    "qty_on_hand": 91,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:33+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 87,
+                    "qty_on_hand": 87,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:51+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 29,
+                    "qty_on_hand": 31,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:54+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Franklin Blue Casket",
+            "qty_available": 229,
+            "qty_on_hand": 237,
+            "wms_datetime": "2024-09-11T08:18:58+00:00",
+            "warehouses": {
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": 8,
+                    "qty_on_hand": 8,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 56,
+                    "qty_on_hand": 62,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 67,
+                    "qty_on_hand": 68,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711371": {
+                    "warehouse": "Tacoma 3PL",
+                    "qty_available": 5,
+                    "qty_on_hand": 5,
+                    "wms_datetime": "2024-09-11T08:18:56+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:56+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 93,
+                    "qty_on_hand": 94,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Prime Rose",
+            "qty_available": 219,
+            "qty_on_hand": 226,
+            "wms_datetime": "2024-09-11T08:18:56+00:00",
+            "warehouses": {
+                "74711371": {
+                    "warehouse": "Tacoma 3PL",
+                    "qty_available": 11,
+                    "qty_on_hand": 12,
+                    "wms_datetime": "2024-09-11T08:18:56+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:56+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 87,
+                    "qty_on_hand": 87,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:33+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 67,
+                    "qty_on_hand": 68,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:54+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 47,
+                    "qty_on_hand": 52,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:51+00:00"
+                },
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": 7,
+                    "qty_on_hand": 7,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Mother's Casket",
+            "qty_available": 207,
+            "qty_on_hand": 213,
+            "wms_datetime": "2024-09-11T08:18:58+00:00",
+            "warehouses": {
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": -1,
+                    "qty_on_hand": 1,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                },
+                "74711371": {
+                    "warehouse": "Tacoma 3PL",
+                    "qty_available": 12,
+                    "qty_on_hand": 12,
+                    "wms_datetime": "2024-09-11T08:18:56+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:56+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 83,
+                    "qty_on_hand": 84,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:33+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 66,
+                    "qty_on_hand": 68,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:54+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 47,
+                    "qty_on_hand": 48,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:51+00:00"
+                }
+            }
+        },
+        {
+            "sku": "Hampton Solid Poplar Wood",
+            "qty_available": 293,
+            "qty_on_hand": 301,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 100,
+                    "qty_on_hand": 104,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 46,
+                    "qty_on_hand": 50,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:53+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 115,
+                    "qty_on_hand": 115,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:31+00:00"
+                },
+                "74711371": {
+                    "warehouse": "Tacoma 3PL",
+                    "qty_available": 18,
+                    "qty_on_hand": 18,
+                    "wms_datetime": "2024-09-11T08:18:56+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:56+00:00"
+                },
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": 14,
+                    "qty_on_hand": 14,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                }
+            }
+        },
+        {
+            "sku": "LORD'S PRAYER CASKET",
+            "qty_available": 217,
+            "qty_on_hand": 224,
+            "wms_datetime": "2024-09-11T08:18:58+00:00",
+            "warehouses": {
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": 2,
+                    "qty_on_hand": 2,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                },
+                "74711371": {
+                    "warehouse": "Tacoma 3PL",
+                    "qty_available": 8,
+                    "qty_on_hand": 8,
+                    "wms_datetime": "2024-09-11T08:18:56+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:56+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 76,
+                    "qty_on_hand": 77,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:33+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 71,
+                    "qty_on_hand": 73,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:55+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 60,
+                    "qty_on_hand": 64,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:51+00:00"
+                }
+            }
+        },
+        {
+            "sku": "President",
+            "qty_available": 276,
+            "qty_on_hand": 288,
+            "wms_datetime": "2024-09-11T08:18:58+00:00",
+            "warehouses": {
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": 2,
+                    "qty_on_hand": 2,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                },
+                "74711371": {
+                    "warehouse": "Tacoma 3PL",
+                    "qty_available": 13,
+                    "qty_on_hand": 13,
+                    "wms_datetime": "2024-09-11T08:18:56+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:56+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 112,
+                    "qty_on_hand": 114,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 89,
+                    "qty_on_hand": 89,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:54+00:00"
+                },
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 60,
+                    "qty_on_hand": 70,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:50+00:00"
+                }
+            }
+        },
+        {
+            "sku": "ROYAL SILVER CASKET",
+            "qty_available": 231,
+            "qty_on_hand": 238,
+            "wms_datetime": "2024-09-11T08:18:50+00:00",
+            "warehouses": {
+                "74711367": {
+                    "warehouse": "Los Angeles",
+                    "qty_available": 24,
+                    "qty_on_hand": 30,
+                    "wms_datetime": "2024-09-11T08:18:50+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:51+00:00"
+                },
+                "74711368": {
+                    "warehouse": "Indiana",
+                    "qty_available": 86,
+                    "qty_on_hand": 86,
+                    "wms_datetime": "2024-09-11T08:18:53+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:54+00:00"
+                },
+                "74711369": {
+                    "warehouse": "New Jersey",
+                    "qty_available": 101,
+                    "qty_on_hand": 101,
+                    "wms_datetime": "2024-09-11T08:18:31+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:32+00:00"
+                },
+                "74711371": {
+                    "warehouse": "Tacoma 3PL",
+                    "qty_available": 14,
+                    "qty_on_hand": 15,
+                    "wms_datetime": "2024-09-11T08:18:56+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:56+00:00"
+                },
+                "74711372": {
+                    "warehouse": "Santa Clara 3PL",
+                    "qty_available": 6,
+                    "qty_on_hand": 6,
+                    "wms_datetime": "2024-09-11T08:18:58+00:00",
+                    "loaded_datetime": "2024-09-11T08:18:58+00:00"
+                }
+            }
+        }
+    ]
+}

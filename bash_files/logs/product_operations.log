@@ -1,0 +1,129 @@
+Script started at: 2024-11-11 13:00:01
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/product_operations.py:1: LangChainDeprecationWarning: Importing PGVector from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import PGVector
+
+with new imports of:
+
+>> from langchain_community.vectorstores import PGVector
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores.pgvector import PGVector
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/product_operations.py:2: LangChainDeprecationWarning: Importing OpenAIEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import OpenAIEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import OpenAIEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings import OpenAIEmbeddings
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/product_operations.py:102: SAWarning: Did not recognize type 'vector' of column 'embedding'
+  langchain_pg_embedding = Table('langchain_pg_embedding', metadata, autoload_with=engine)
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/src/product_operations.py:136: LangChainDeprecationWarning: The class `OpenAIEmbeddings` was deprecated in LangChain 0.0.9 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-openai package and should be used instead. To use it run `pip install -U :class:`~langchain-openai` and import as `from :class:`~langchain_openai import OpenAIEmbeddings``.
+  embedding=OpenAIEmbeddings(),
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/.python3.10/lib/python3.10/site-packages/langchain_community/vectorstores/pgvector.py:487: LangChainPendingDeprecationWarning: Please use JSONB instead of JSON for metadata. This change will allow for more efficient querying that involves filtering based on metadata. Please note that filtering operators have been changed when using JSONB metadata to be prefixed with a $ sign to avoid name collisions with columns. If you're using an existing database, you will need to create a db migration for your metadata column to be JSONB and update your queries to use the new operators. 
+  store = cls(
+Marked record with custom_id: 1_prod_Ts5SUn0Yos for deletion, name: Sterling Silver with White Velvet Interior - Metal Casket
+Inserted new record for Sterling Silver with White Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 2_prod_Ue9F5pKZFn for deletion, name: PrimRose White And Pink Casket with Pink Velvet Interior - Metal Casket
+Inserted new record for PrimRose White And Pink Casket with Pink Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 3_prod_k3JFpNZ2hf for deletion, name: Lincoln Black Casket with White Velvet Interior - Metal Casket
+Inserted new record for Lincoln Black Casket with White Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 4_prod_SGhVys5MvU for deletion, name: Lincoln Silver Casket with White Velvet Interior- Metal Casket
+Inserted new record for Lincoln Silver Casket with White Velvet Interior- Metal Casket after deletion.
+Marked record with custom_id: 5_prod_mcKl3gmJba for deletion, name: Briar Rose Lilac Purple Casket with Pink Velvet Interior - Metal Casket
+Inserted new record for Briar Rose Lilac Purple Casket with Pink Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 6_prod_TbNxuXBN7l for deletion, name: In God's Care Spruce Blue Casket with Blue Velvet Interior- Metal Casket
+Inserted new record for In God's Care Spruce Blue Casket with Blue Velvet Interior- Metal Casket after deletion.
+Marked record with custom_id: 7_prod_WGPAcARDgi for deletion, name: White Cross' Lords Prayer Casket with White Velvet Interior - Metal Casket
+Inserted new record for White Cross' Lords Prayer Casket with White Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 8_prod_ncf7VVaeC6 for deletion, name: Last Supper' Antique White Casket - Metal Casket
+Inserted new record for Last Supper' Antique White Casket - Metal Casket after deletion.
+Marked record with custom_id: 9_prod_5prenwMQCz for deletion, name: Heritage Bronze  Casket with Cream Velvet Interior - Metal Casket
+Inserted new record for Heritage Bronze  Casket with Cream Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 10_prod_2Pq3JBH5wl for deletion, name: Veterans Silver Finish with White Interior - Metal Casket
+Inserted new record for Veterans Silver Finish with White Interior - Metal Casket after deletion.
+Marked record with custom_id: 11_prod_aZcXdxkbTk for deletion, name: Sterling Copper Casket with Ivory Velvet Interior - Metal Casket
+Inserted new record for Sterling Copper Casket with Ivory Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 12_prod_kIYJiR1qsW for deletion, name: Elite Veneer Wood Cherry Finish with Ivory Velvet Interior
+Inserted new record for Elite Veneer Wood Cherry Finish with Ivory Velvet Interior after deletion.
+Marked record with custom_id: 13_prod_qLSnUYaH1U for deletion, name: Frank Silver with White Velvet Interior 27.5" - Oversize Metal Casket
+Inserted new record for Frank Silver with White Velvet Interior 27.5" - Oversize Metal Casket after deletion.
+Marked record with custom_id: 14_prod_GbhA8WeiIQ for deletion, name: Frank Silver White Velvet Interior 30.5" - Oversize Metal Casket
+Inserted new record for Frank Silver White Velvet Interior 30.5" - Oversize Metal Casket after deletion.
+Marked record with custom_id: 15_prod_f05okPpgaW for deletion, name: Frank Blue With Blue Velvet Interior 27.5" - Oversize Metal Casket
+Inserted new record for Frank Blue With Blue Velvet Interior 27.5" - Oversize Metal Casket after deletion.
+Marked record with custom_id: 16_prod_aZjNRaQYHZ for deletion, name: Monticello Rose with Pink Velvet Interior - Stainless Steel Casket
+Inserted new record for Monticello Rose with Pink Velvet Interior - Stainless Steel Casket after deletion.
+Marked record with custom_id: 17_prod_umYg8Trmfj for deletion, name: Sterling Black with White Velvet Interior - Metal Casket
+Inserted new record for Sterling Black with White Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 18_prod_6tpPOJUapP for deletion, name: Adams Solid Mahogany Wood with Almond Velvet Interior
+Inserted new record for Adams Solid Mahogany Wood with Almond Velvet Interior after deletion.
+Marked record with custom_id: 19_prod_wgd5aipVCA for deletion, name: Lincoln Solid Poplar Casket with Almond Velvet Interior - Wood Casket
+Inserted new record for Lincoln Solid Poplar Casket with Almond Velvet Interior - Wood Casket after deletion.
+Marked record with custom_id: 20_prod_GdHt9mTyj6 for deletion, name: Inspiration Cherry Cremation Casket
+Inserted new record for Inspiration Cherry Cremation Casket after deletion.
+Marked record with custom_id: 21_prod_iIBy4JBYMY for deletion, name: Benedict Cherry Veneer Finish w/ Ivory Velvet Interior
+Inserted new record for Benedict Cherry Veneer Finish w/ Ivory Velvet Interior after deletion.
+Marked record with custom_id: 22_prod_kyP695hVE1 for deletion, name: Cherry Matinée Veneer Casket with Cream Velvet Interior - Wood Casket
+Inserted new record for Cherry Matinée Veneer Casket with Cream Velvet Interior - Wood Casket after deletion.
+Marked record with custom_id: 23_prod_09WYzjIMJo for deletion, name: Franklin Solid Poplar Wood Finish With Cream Velvet Interior
+Inserted new record for Franklin Solid Poplar Wood Finish With Cream Velvet Interior after deletion.
+Marked record with custom_id: 24_prod_9jmW8MIxy0 for deletion, name: Columbia Solid Mahogany Wood With Velvet Interior
+Inserted new record for Columbia Solid Mahogany Wood With Velvet Interior after deletion.
+Marked record with custom_id: 25_prod_VrUX5Nw4gX for deletion, name: Classic Poplar Veneer Wood Light Brown Finish With White Velvet Interior
+Inserted new record for Classic Poplar Veneer Wood Light Brown Finish With White Velvet Interior after deletion.
+Marked record with custom_id: 26_prod_uPBggjwVnr for deletion, name: Gemini Monarch Blue Casket - Metal Casket
+Inserted new record for Gemini Monarch Blue Casket - Metal Casket after deletion.
+Marked record with custom_id: 27_prod_eef5u7Mey4 for deletion, name: Praying Hands' Spruce Blue Casket - Metal Casket
+Inserted new record for Praying Hands' Spruce Blue Casket - Metal Casket after deletion.
+Marked record with custom_id: 28_prod_JMP55dz49w for deletion, name: Spartan White And Gold Casket with White Crepe Interior - Metal Casket
+Inserted new record for Spartan White And Gold Casket with White Crepe Interior - Metal Casket after deletion.
+Marked record with custom_id: 29_prod_tNo5o1SU2H for deletion, name: Mother' Casket Pink Finish with Pink Velvet Interior - Metal Casket
+Inserted new record for Mother' Casket Pink Finish with Pink Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 30_prod_CdIVS1L3rl for deletion, name: Franklin Antique White Gold Finish With White Velvet Interior - Standard Oversize 27.5"
+Inserted new record for Franklin Antique White Gold Finish With White Velvet Interior - Standard Oversize 27.5" after deletion.
+Marked record with custom_id: 31_prod_hzLB9HjxvT for deletion, name: Silver Rose Finish With Pink Velvet Interior
+Inserted new record for Silver Rose Finish With Pink Velvet Interior after deletion.
+Marked record with custom_id: 32_prod_mMa9PkwRlW for deletion, name: Silver Rose Brush Casket with Pink Velvet Interior - Metal Casket
+Inserted new record for Silver Rose Brush Casket with Pink Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 33_prod_51P3riiJrt for deletion, name: Legacy Spruce Blue Casket with White Velvet Interior - Metal Casket
+Inserted new record for Legacy Spruce Blue Casket with White Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 34_prod_vxJkjak3kN for deletion, name: 'Praying Hands' Casket Monarch Blue with Blue Velvet Interior - Metal Casket
+Inserted new record for 'Praying Hands' Casket Monarch Blue with Blue Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 35_prod_Dfu3qyW1AV for deletion, name: Cherrytone Solid Poplar Casket with Cream Velvet Interior -  Wood Casket
+/home/differenz83/Documents/AI_Internal_Chatbot/chatbot_pgvector/.python3.10/lib/python3.10/site-packages/langchain_community/vectorstores/pgvector.py:487: LangChainPendingDeprecationWarning: Please use JSONB instead of JSON for metadata. This change will allow for more efficient querying that involves filtering based on metadata. Please note that filtering operators have been changed when using JSONB metadata to be prefixed with a $ sign to avoid name collisions with columns. If you're using an existing database, you will need to create a db migration for your metadata column to be JSONB and update your queries to use the new operators. 
+  store = cls(
+Inserted new record for Cherrytone Solid Poplar Casket with Cream Velvet Interior -  Wood Casket after deletion.
+Marked record with custom_id: 36_prod_wMBlpI0MP6 for deletion, name: White Cross Casket Antique White Finish with White Interior
+Inserted new record for White Cross Casket Antique White Finish with White Interior after deletion.
+Marked record with custom_id: 37_prod_qLCVkhN3xG for deletion, name: Belmont Veneer Casket with Cream Velvet Interior - Wood Casket
+Inserted new record for Belmont Veneer Casket with Cream Velvet Interior - Wood Casket after deletion.
+Marked record with custom_id: 38_prod_7nNRejVvBZ for deletion, name: Heavenly Mothers with Light Pink Crepe Interior - Metal Casket
+Inserted new record for Heavenly Mothers with Light Pink Crepe Interior - Metal Casket after deletion.
+Marked record with custom_id: 39_prod_FYSdYi2nTK for deletion, name: Jackson Cherry Veneer Wood With Cream Velvet Interior
+Inserted new record for Jackson Cherry Veneer Wood With Cream Velvet Interior after deletion.
+Marked record with custom_id: 40_prod_9C6C7JOPzK for deletion, name: Spartan Silver Casket with White Crepe Interior - Metal Casket
+Inserted new record for Spartan Silver Casket with White Crepe Interior - Metal Casket after deletion.
+Marked record with custom_id: 41_prod_ScuWxZ6XmX for deletion, name: Cleveland Mahogany Solid Wood with Almond Velvet Interior
+Inserted new record for Cleveland Mahogany Solid Wood with Almond Velvet Interior after deletion.
+Marked record with custom_id: 42_prod_Ia0BtNe7V0 for deletion, name: Presidential Solid Mahogany with Almond Velvets Interior
+Inserted new record for Presidential Solid Mahogany with Almond Velvets Interior after deletion.
+Marked record with custom_id: 43_prod_EfqCGeEImo for deletion, name: Imperial Burgundy with White Crepe Interior - Metal Casket
+Inserted new record for Imperial Burgundy with White Crepe Interior - Metal Casket after deletion.
+Marked record with custom_id: 44_prod_4ua9fKTpyi for deletion, name: Legacy Gold with Cream Velvet Interior - Metal Casket
+Inserted new record for Legacy Gold with Cream Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 45_prod_2lGl9D73YE for deletion, name: Pieta Autumn Bronze with Tan Velvet Interior - Metal Casket
+Inserted new record for Pieta Autumn Bronze with Tan Velvet Interior - Metal Casket after deletion.
+Marked record with custom_id: 46_prod_3F8thv7Quy for deletion, name: Platinum Brush Lilac with Pink Velvet Interior
+Inserted new record for Platinum Brush Lilac with Pink Velvet Interior after deletion.
+Marked record with custom_id: 47_prod_YBWQ9jP2QF for deletion, name: Frank White with White Velvet Interior 30.5" - Oversize Metal Casket
+Inserted new record for Frank White with White Velvet Interior 30.5" - Oversize Metal Casket after deletion.
+Marked record with custom_id: 48_prod_1lNRAywUfH for deletion, name: Frank White with Pink Velvet Interior 27.5" - Oversize Metal Casket
+Inserted new record for Frank White with Pink Velvet Interior 27.5" - Oversize Metal Casket after deletion.
+Marked record with custom_id: 49_prod_JhbjIAQ2Z6 for deletion, name: Lincoln Pewter with White Velvet Interior - Stainless Steel Casket
+Inserted new record for Lincoln Pewter with White Velvet Interior - Stainless Steel Casket after deletion.
+Marked record with custom_id: 50_prod_3YIjNZzuja for deletion, name: Bronze Casket - Brush Gold with Light Gold Finish Almond Velvet Interior
+Inserted new record for Bronze Casket - Brush Gold with Light Gold Finish Almond Velvet Interior after deletion.
+All operations completed successfully.
+Script finished at: 2024-11-11 13:00:14
